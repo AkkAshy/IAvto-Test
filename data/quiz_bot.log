@@ -5213,3 +5213,786 @@ AttributeError: 'NoneType' object has no attribute 'language'
 2025-08-20 14:14:41,849 [WARNING] Received SIGINT signal
 2025-08-20 14:14:41,850 [INFO] Polling stopped for bot @IAvtotestbot id=7681391607 - 'IAvto Test'
 2025-08-20 14:14:41,851 [INFO] Polling stopped
+2025-08-20 14:15:31,350 [INFO] Language buttons cache: ['🌐 Тилди орнатыў', '🌐 Тилни ўрнатиш', '🌐 Установить язык', "🌐 Tilni o'rnatish"]
+2025-08-20 14:15:31,351 [INFO] Stop buttons cache: ['🛑 Тоқтатыў', '🛑 Тўхтатиш', '🛑 Стоп', "🛑 To'xtatish"]
+2025-08-20 14:15:31,360 [INFO] Test buttons cache: ['🚀 Тестти баслаў', '🚀 Тестни бошлаш', '🚀 Начать тест', '🚀 Testni boshlash']
+2025-08-20 14:15:31,366 [INFO] Starting bot...
+2025-08-20 14:15:31,407 [INFO] Start polling
+2025-08-20 14:15:31,761 [INFO] Run polling for bot @IAvtotestbot id=7681391607 - 'IAvto Test'
+2025-08-20 14:15:39,832 [INFO] Update id=144911430 is handled. Duration 352 ms by bot id=7681391607
+2025-08-20 14:15:41,640 [INFO] Update id=144911431 is handled. Duration 161 ms by bot id=7681391607
+2025-08-20 14:15:42,811 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:42,812 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:42,812 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:42,812 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:42,846 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:42,847 [INFO] get_test_selection_keyboard received data type: <class 'list'>
+2025-08-20 14:15:42,848 [INFO] Tests JSON length: 57
+2025-08-20 14:15:42,848 [INFO] Found unique template IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]
+2025-08-20 14:15:42,848 [INFO] Created button: 📝 Тест ID: 1
+2025-08-20 14:15:42,848 [INFO] Created button: 📝 Тест ID: 2
+2025-08-20 14:15:42,848 [INFO] Created button: 📝 Тест ID: 3
+2025-08-20 14:15:42,848 [INFO] Created button: 📝 Тест ID: 4
+2025-08-20 14:15:42,848 [INFO] Created button: 📝 Тест ID: 5
+2025-08-20 14:15:42,848 [INFO] Created button: 📝 Тест ID: 6
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 7
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 8
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 9
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 10
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 11
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 12
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 13
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 14
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 15
+2025-08-20 14:15:42,849 [INFO] Created button: 📝 Тест ID: 16
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 17
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 18
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 19
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 20
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 21
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 22
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 23
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 24
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 25
+2025-08-20 14:15:42,850 [INFO] Created button: 📝 Тест ID: 26
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 27
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 28
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 29
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 30
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 31
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 32
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 33
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 34
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 35
+2025-08-20 14:15:42,851 [INFO] Created button: 📝 Тест ID: 36
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 37
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 38
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 39
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 40
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 41
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 42
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 43
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 44
+2025-08-20 14:15:42,852 [INFO] Created button: 📝 Тест ID: 45
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 46
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 47
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 48
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 49
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 50
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 51
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 52
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 53
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 54
+2025-08-20 14:15:42,853 [INFO] Created button: 📝 Тест ID: 55
+2025-08-20 14:15:42,854 [INFO] Created button: 📝 Тест ID: 56
+2025-08-20 14:15:42,854 [INFO] Created button: 📝 Тест ID: 57
+2025-08-20 14:15:42,854 [INFO] Created keyboard with 57 buttons
+2025-08-20 14:15:43,009 [INFO] Update id=144911432 is handled. Duration 205 ms by bot id=7681391607
+2025-08-20 14:15:49,295 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:49,295 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:49,295 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:49,295 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:49,319 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:49,320 [INFO] Loaded 57 tests from JSON
+2025-08-20 14:15:49,320 [ERROR] Failed to automatically reset progress for user 5111968766: reset_test_progress() missing 1 required positional argument: 'test_id'
+2025-08-20 14:15:49,531 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:49,531 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:49,531 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:49,531 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:49,574 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:49,575 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:15:49,575 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:15:49,861 [INFO] Update id=144911433 is handled. Duration 569 ms by bot id=7681391607
+2025-08-20 14:15:52,505 [INFO] User 5111968766 requested progress reset
+2025-08-20 14:15:52,526 [INFO] Progress reset for user 5111968766
+2025-08-20 14:15:52,681 [INFO] Update id=144911434 is handled. Duration 183 ms by bot id=7681391607
+2025-08-20 14:15:53,565 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:53,565 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:53,565 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:53,566 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:53,595 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:53,596 [INFO] get_test_selection_keyboard received data type: <class 'list'>
+2025-08-20 14:15:53,597 [INFO] Tests JSON length: 57
+2025-08-20 14:15:53,597 [INFO] Found unique template IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]
+2025-08-20 14:15:53,597 [INFO] Created button: 📝 Тест ID: 1
+2025-08-20 14:15:53,597 [INFO] Created button: 📝 Тест ID: 2
+2025-08-20 14:15:53,597 [INFO] Created button: 📝 Тест ID: 3
+2025-08-20 14:15:53,598 [INFO] Created button: 📝 Тест ID: 4
+2025-08-20 14:15:53,598 [INFO] Created button: 📝 Тест ID: 5
+2025-08-20 14:15:53,598 [INFO] Created button: 📝 Тест ID: 6
+2025-08-20 14:15:53,598 [INFO] Created button: 📝 Тест ID: 7
+2025-08-20 14:15:53,598 [INFO] Created button: 📝 Тест ID: 8
+2025-08-20 14:15:53,598 [INFO] Created button: 📝 Тест ID: 9
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 10
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 11
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 12
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 13
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 14
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 15
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 16
+2025-08-20 14:15:53,599 [INFO] Created button: 📝 Тест ID: 17
+2025-08-20 14:15:53,600 [INFO] Created button: 📝 Тест ID: 18
+2025-08-20 14:15:53,600 [INFO] Created button: 📝 Тест ID: 19
+2025-08-20 14:15:53,600 [INFO] Created button: 📝 Тест ID: 20
+2025-08-20 14:15:53,600 [INFO] Created button: 📝 Тест ID: 21
+2025-08-20 14:15:53,600 [INFO] Created button: 📝 Тест ID: 22
+2025-08-20 14:15:53,600 [INFO] Created button: 📝 Тест ID: 23
+2025-08-20 14:15:53,600 [INFO] Created button: 📝 Тест ID: 24
+2025-08-20 14:15:53,601 [INFO] Created button: 📝 Тест ID: 25
+2025-08-20 14:15:53,601 [INFO] Created button: 📝 Тест ID: 26
+2025-08-20 14:15:53,601 [INFO] Created button: 📝 Тест ID: 27
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 28
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 29
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 30
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 31
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 32
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 33
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 34
+2025-08-20 14:15:53,602 [INFO] Created button: 📝 Тест ID: 35
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 36
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 37
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 38
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 39
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 40
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 41
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 42
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 43
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 44
+2025-08-20 14:15:53,603 [INFO] Created button: 📝 Тест ID: 45
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 46
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 47
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 48
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 49
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 50
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 51
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 52
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 53
+2025-08-20 14:15:53,604 [INFO] Created button: 📝 Тест ID: 54
+2025-08-20 14:15:53,605 [INFO] Created button: 📝 Тест ID: 55
+2025-08-20 14:15:53,605 [INFO] Created button: 📝 Тест ID: 56
+2025-08-20 14:15:53,605 [INFO] Created button: 📝 Тест ID: 57
+2025-08-20 14:15:53,605 [INFO] Created keyboard with 57 buttons
+2025-08-20 14:15:53,745 [INFO] Update id=144911435 is handled. Duration 187 ms by bot id=7681391607
+2025-08-20 14:15:54,912 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:54,912 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:54,912 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:54,912 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:54,936 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:54,937 [INFO] Loaded 57 tests from JSON
+2025-08-20 14:15:54,937 [ERROR] Failed to automatically reset progress for user 5111968766: reset_test_progress() missing 1 required positional argument: 'test_id'
+2025-08-20 14:15:55,139 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:55,140 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:55,140 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:55,140 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:55,194 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:55,196 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:15:55,196 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:15:55,196 [INFO] User 5111968766 next question_id: 6272
+2025-08-20 14:15:55,213 [INFO] Added quiz progress for user 5111968766, test 1, question 6272
+2025-08-20 14:15:55,213 [INFO] Question 6272 text: Жанып турған сарғыш реӊли жылтылдаўық шам жол ҳəрекетинде үстинлик бере ме?, image: /images/6272.png
+2025-08-20 14:15:55,213 [INFO] Question 6272 options: ['Ауа', 'Жок'], correct: 1
+2025-08-20 14:15:55,213 [INFO] Successfully loaded image: data/images/6272.png
+2025-08-20 14:15:56,334 [INFO] Sent quiz poll 5273751877031300751 for question 6272 to user 5111968766
+2025-08-20 14:15:56,344 [INFO] Update id=144911436 is handled. Duration 1435 ms by bot id=7681391607
+2025-08-20 14:15:57,697 [INFO] User 5111968766 answered poll 5273751877031300751 with options: [1]
+2025-08-20 14:15:57,702 [INFO] Processing poll answer for user 5111968766, test 1, question 6272
+2025-08-20 14:15:57,702 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:57,702 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:57,702 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:57,702 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:57,745 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:57,765 [INFO] Updated quiz progress for user 5111968766, test 1, question 6272, correct: True
+2025-08-20 14:15:59,002 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:15:59,003 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:15:59,003 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:15:59,003 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:59,047 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:15:59,048 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:15:59,048 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:15:59,049 [INFO] User 5111968766 next question_id: 6671
+2025-08-20 14:15:59,064 [INFO] Added quiz progress for user 5111968766, test 1, question 6671
+2025-08-20 14:15:59,064 [INFO] Question 6671 text: Көрсетилген бағдарлар бойынша қайсы жөнелислерде ҳəрекетлениўге рухсат етиледи?, image: /images/6671.jpg
+2025-08-20 14:15:59,064 [INFO] Question 6671 options: ['Тек ғана А жөнелиси бойынша.', 'Тек ғана B жөнелиси бойынша.', 'Тек ғана C жөнелиси бойынша.', 'Тек ғана А ҳəм D жөнелислери бойынша.', 'Тек ғана D жөнелиси бойынша.'], correct: 3
+2025-08-20 14:15:59,065 [INFO] Successfully loaded image: data/images/6671.jpg
+2025-08-20 14:15:59,939 [INFO] Sent quiz poll 5273751877031300752 for question 6671 to user 5111968766
+2025-08-20 14:15:59,948 [INFO] Update id=144911437 is handled. Duration 2256 ms by bot id=7681391607
+2025-08-20 14:16:00,872 [INFO] User 5111968766 answered poll 5273751877031300752 with options: [3]
+2025-08-20 14:16:00,876 [INFO] Processing poll answer for user 5111968766, test 1, question 6671
+2025-08-20 14:16:00,876 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:00,876 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:00,877 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:00,877 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:00,911 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:00,926 [INFO] Updated quiz progress for user 5111968766, test 1, question 6671, correct: True
+2025-08-20 14:16:02,073 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:02,073 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:02,073 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:02,074 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:02,127 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:02,130 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:02,130 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:02,131 [INFO] User 5111968766 next question_id: 6838
+2025-08-20 14:16:02,145 [INFO] Added quiz progress for user 5111968766, test 1, question 6838
+2025-08-20 14:16:02,145 [INFO] Question 6838 text: Бул белги төмендеги жөнелислерде ҳəрекетлениўге рухсат береди:, image: /images/6838.jpg
+2025-08-20 14:16:02,145 [INFO] Question 6838 options: ['Тек ғана шепке', 'Тек ғана туўрыға', 'Тек ғана оӊға', 'Туўрыға, оӊға ҳəм артқа қайтыўға'], correct: 3
+2025-08-20 14:16:02,146 [INFO] Successfully loaded image: data/images/6838.jpg
+2025-08-20 14:16:03,048 [INFO] Sent quiz poll 5273751877031300753 for question 6838 to user 5111968766
+2025-08-20 14:16:03,054 [INFO] Update id=144911438 is handled. Duration 2187 ms by bot id=7681391607
+2025-08-20 14:16:03,924 [INFO] User 5111968766 answered poll 5273751877031300753 with options: [2]
+2025-08-20 14:16:03,928 [INFO] Processing poll answer for user 5111968766, test 1, question 6838
+2025-08-20 14:16:03,929 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:03,929 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:03,929 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:03,929 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:03,968 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:03,985 [INFO] Updated quiz progress for user 5111968766, test 1, question 6838, correct: False
+2025-08-20 14:16:05,172 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:05,172 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:05,172 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:05,173 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:05,234 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:05,235 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:05,236 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:05,236 [INFO] User 5111968766 next question_id: 6870
+2025-08-20 14:16:05,252 [INFO] Added quiz progress for user 5111968766, test 1, question 6870
+2025-08-20 14:16:05,252 [INFO] Question 6870 text: Бул белгилердиӊ тəсир етиў аймағында қайсы автомобильге тоқтаўға рухсат етиледи?, image: /images/6870.jpg
+2025-08-20 14:16:05,252 [INFO] Question 6870 options: ['Қызылға', 'Ҳəр еки автомобильге', 'Ҳеш бирине', 'Сарыға'], correct: 3
+2025-08-20 14:16:05,252 [INFO] Successfully loaded image: data/images/6870.jpg
+2025-08-20 14:16:06,165 [INFO] Sent quiz poll 5273751877031300754 for question 6870 to user 5111968766
+2025-08-20 14:16:06,172 [INFO] Update id=144911439 is handled. Duration 2252 ms by bot id=7681391607
+2025-08-20 14:16:07,153 [INFO] User 5111968766 answered poll 5273751877031300754 with options: [0]
+2025-08-20 14:16:07,157 [INFO] Processing poll answer for user 5111968766, test 1, question 6870
+2025-08-20 14:16:07,158 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:07,158 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:07,158 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:07,158 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:07,195 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:07,210 [INFO] Updated quiz progress for user 5111968766, test 1, question 6870, correct: False
+2025-08-20 14:16:08,347 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:08,348 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:08,348 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:08,348 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:08,379 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:08,380 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:08,380 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:08,380 [INFO] User 5111968766 next question_id: 6952
+2025-08-20 14:16:08,394 [INFO] Added quiz progress for user 5111968766, test 1, question 6952
+2025-08-20 14:16:08,394 [INFO] Question 6952 text: Ҳəрекетлениў қадаған етиледи:, image: /images/6952.jpg
+2025-08-20 14:16:08,394 [INFO] Question 6952 options: ['Қызыл ҳəм ақ автомобильлерге.', 'Көк, жасыл ҳəм ақ автомобильлерге.', 'Ақ, көк ҳəм сары автомобильлерге.'], correct: 1
+2025-08-20 14:16:08,394 [INFO] Successfully loaded image: data/images/6952.jpg
+2025-08-20 14:16:09,923 [INFO] Sent quiz poll 5273751877031300755 for question 6952 to user 5111968766
+2025-08-20 14:16:09,931 [INFO] Update id=144911440 is handled. Duration 2783 ms by bot id=7681391607
+2025-08-20 14:16:10,769 [INFO] User 5111968766 answered poll 5273751877031300755 with options: [0]
+2025-08-20 14:16:10,774 [INFO] Processing poll answer for user 5111968766, test 1, question 6952
+2025-08-20 14:16:10,774 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:10,774 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:10,775 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:10,775 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:10,821 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:10,837 [INFO] Updated quiz progress for user 5111968766, test 1, question 6952, correct: False
+2025-08-20 14:16:12,088 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:12,089 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:12,089 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:12,089 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:12,149 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:12,151 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:12,151 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:12,151 [INFO] User 5111968766 next question_id: 7312
+2025-08-20 14:16:12,168 [INFO] Added quiz progress for user 5111968766, test 1, question 7312
+2025-08-20 14:16:12,169 [INFO] Question 7312 text: Айдаӯшы транспорт қуралын артқа басқарғанда қандай талапларды орынлаўы керек?, image: /images/7312.jpg
+2025-08-20 14:16:12,169 [INFO] Question 7312 options: ['Басқа қатнасыўшыларға кесент етпеў. Зәрүр болғанда, қәўипсизликти тəмийинлеў ушын басқа шахслардыӊ жәрдеминен пайдаланыў', 'Басқа шахслардыӊ жəрдеминен пайдаланыў', 'Егер транспорт қуралында бар болса, артқы туманға қарсы шыраларды жағыў', 'Габарит отларын жағыў'], correct: 0
+2025-08-20 14:16:12,169 [INFO] Successfully loaded image: data/images/7312.jpg
+2025-08-20 14:16:13,102 [INFO] Sent quiz poll 5273751877031300756 for question 7312 to user 5111968766
+2025-08-20 14:16:13,108 [INFO] Update id=144911441 is handled. Duration 2344 ms by bot id=7681391607
+2025-08-20 14:16:14,054 [INFO] User 5111968766 answered poll 5273751877031300756 with options: [1]
+2025-08-20 14:16:14,059 [INFO] Processing poll answer for user 5111968766, test 1, question 7312
+2025-08-20 14:16:14,059 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:14,059 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:14,059 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:14,059 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:14,084 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:14,101 [INFO] Updated quiz progress for user 5111968766, test 1, question 7312, correct: False
+2025-08-20 14:16:15,273 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:15,273 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:15,273 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:15,273 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:15,324 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:15,325 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:15,326 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:15,326 [INFO] User 5111968766 next question_id: 7330
+2025-08-20 14:16:15,341 [INFO] Added quiz progress for user 5111968766, test 1, question 7330
+2025-08-20 14:16:15,342 [INFO] Question 7330 text: Қарсы ҳəрекетке мөлшерленген жолдыӊ тәрепине шығыў қашан қадаған етиледи?, image: None
+2025-08-20 14:16:15,342 [INFO] Question 7330 options: ['Төрт яки оннан да көп жолақлары болған еки тәреплеме ҳәрекет жолларында.', 'Қарсы жөнелислердеги транспорт ағымларын бөлип турыўшы еки үзиксиз сызық түриндеги жол белгилери болған еки тәреплеме ҳәрекет жолларында.', 'Барлық кѳрсетилген жағдайларда.'], correct: 2
+2025-08-20 14:16:15,739 [INFO] Sent quiz poll 5273751877031300757 for question 7330 to user 5111968766
+2025-08-20 14:16:15,747 [INFO] Update id=144911442 is handled. Duration 1697 ms by bot id=7681391607
+2025-08-20 14:16:16,729 [INFO] User 5111968766 answered poll 5273751877031300757 with options: [1]
+2025-08-20 14:16:16,734 [INFO] Processing poll answer for user 5111968766, test 1, question 7330
+2025-08-20 14:16:16,734 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:16,734 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:16,734 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:16,735 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:16,773 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:16,790 [INFO] Updated quiz progress for user 5111968766, test 1, question 7330, correct: False
+2025-08-20 14:16:18,024 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:18,025 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:18,025 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:18,025 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:18,087 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:18,089 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:18,089 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:18,089 [INFO] User 5111968766 next question_id: 7594
+2025-08-20 14:16:18,106 [INFO] Added quiz progress for user 5111968766, test 1, question 7594
+2025-08-20 14:16:18,106 [INFO] Question 7594 text: Бул орында тоқтап турыўға рухсат етиле ме?, image: /images/7594.png
+2025-08-20 14:16:18,106 [INFO] Question 7594 options: ['Рухсат етиледи.', 'Қадаған етиледи.'], correct: 0
+2025-08-20 14:16:18,107 [INFO] Successfully loaded image: data/images/7594.png
+2025-08-20 14:16:21,573 [INFO] Sent quiz poll 5273751877031300758 for question 7594 to user 5111968766
+2025-08-20 14:16:21,581 [INFO] Update id=144911443 is handled. Duration 4856 ms by bot id=7681391607
+2025-08-20 14:16:22,432 [INFO] User 5111968766 answered poll 5273751877031300758 with options: [0]
+2025-08-20 14:16:22,436 [INFO] Processing poll answer for user 5111968766, test 1, question 7594
+2025-08-20 14:16:22,436 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:22,436 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:22,436 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:22,437 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:22,477 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:22,495 [INFO] Updated quiz progress for user 5111968766, test 1, question 7594, correct: True
+2025-08-20 14:16:23,640 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:23,640 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:23,641 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:23,642 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:23,689 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:23,690 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:23,690 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:23,690 [INFO] User 5111968766 next question_id: 7734
+2025-08-20 14:16:23,705 [INFO] Added quiz progress for user 5111968766, test 1, question 7734
+2025-08-20 14:16:23,705 [INFO] Question 7734 text: Бул сызық не ҳаққында ескертеди?, image: /images/7734.png
+2025-08-20 14:16:23,705 [INFO] Question 7734 options: ['Транспорт қуралларыныӊ мəжбүрий тоқтаў орынларына жақынласып атырғаны ҳаққында.', '«Тоқтамай ҳəрекетлениў қадаған етиледи» белгиси менен бирге қолланылғанда «Стоп» сызығына жақынласып атырғаны ҳаққында.', 'Транспорт қуралы пиядаларға жол бериўи керек болған орынға жақынласқаны ҳаққында.'], correct: 1
+2025-08-20 14:16:23,705 [INFO] Successfully loaded image: data/images/7734.png
+2025-08-20 14:16:24,361 [INFO] Sent quiz poll 5273751877031300759 for question 7734 to user 5111968766
+2025-08-20 14:16:24,367 [INFO] Update id=144911444 is handled. Duration 1939 ms by bot id=7681391607
+2025-08-20 14:16:25,383 [INFO] User 5111968766 answered poll 5273751877031300759 with options: [1]
+2025-08-20 14:16:25,387 [INFO] Processing poll answer for user 5111968766, test 1, question 7734
+2025-08-20 14:16:25,387 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:25,387 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:25,387 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:25,388 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:25,429 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:25,446 [INFO] Updated quiz progress for user 5111968766, test 1, question 7734, correct: True
+2025-08-20 14:16:26,653 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:26,653 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:26,653 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:26,654 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:26,701 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:26,702 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:26,702 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:26,702 [INFO] User 5111968766 next question_id: 7876
+2025-08-20 14:16:26,718 [INFO] Added quiz progress for user 5111968766, test 1, question 7876
+2025-08-20 14:16:26,718 [INFO] Question 7876 text: Қайсы транспорт қуралларыныӊ айдаӯшылары кесилиспеден биринши болып өтеди?, image: /images/7876.jpg
+2025-08-20 14:16:26,718 [INFO] Question 7876 options: ['Автомобиль ҳəм автобус айдаӯшылары', 'Трамвай айдаӯшысы'], correct: 0
+2025-08-20 14:16:26,718 [INFO] Successfully loaded image: data/images/7876.jpg
+2025-08-20 14:16:27,498 [INFO] Sent quiz poll 5273751877031300760 for question 7876 to user 5111968766
+2025-08-20 14:16:27,505 [INFO] Update id=144911445 is handled. Duration 2125 ms by bot id=7681391607
+2025-08-20 14:16:28,670 [INFO] User 5111968766 answered poll 5273751877031300760 with options: [1]
+2025-08-20 14:16:28,675 [INFO] Processing poll answer for user 5111968766, test 1, question 7876
+2025-08-20 14:16:28,675 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:28,676 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:28,676 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:28,676 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:28,718 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:28,735 [INFO] Updated quiz progress for user 5111968766, test 1, question 7876, correct: False
+2025-08-20 14:16:29,872 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:29,872 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:29,872 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:29,872 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:29,930 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:29,931 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:29,932 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:29,932 [INFO] User 5111968766 next question_id: 7878
+2025-08-20 14:16:29,952 [INFO] Added quiz progress for user 5111968766, test 1, question 7878
+2025-08-20 14:16:29,953 [INFO] Question 7878 text: Қайсы транспорт қуралыныӊ айдаӯшысы жол бериўи керек?, image: /images/7878.jpg
+2025-08-20 14:16:29,953 [INFO] Question 7878 options: ['Автомобиль айдаӯшысы.', 'Трамвай айдаӯшысы.'], correct: 1
+2025-08-20 14:16:29,953 [INFO] Successfully loaded image: data/images/7878.jpg
+2025-08-20 14:16:30,821 [INFO] Sent quiz poll 5273751877031300761 for question 7878 to user 5111968766
+2025-08-20 14:16:30,829 [INFO] Update id=144911446 is handled. Duration 2164 ms by bot id=7681391607
+2025-08-20 14:16:33,217 [INFO] User 5111968766 answered poll 5273751877031300761 with options: [0]
+2025-08-20 14:16:33,219 [INFO] Processing poll answer for user 5111968766, test 1, question 7878
+2025-08-20 14:16:33,219 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:33,219 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:33,219 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:33,219 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:33,242 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:33,257 [INFO] Updated quiz progress for user 5111968766, test 1, question 7878, correct: False
+2025-08-20 14:16:34,394 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:34,394 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:34,394 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:34,394 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:34,421 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:34,422 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:34,423 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:34,423 [INFO] User 5111968766 next question_id: 8022
+2025-08-20 14:16:34,437 [INFO] Added quiz progress for user 5111968766, test 1, question 8022
+2025-08-20 14:16:34,437 [INFO] Question 8022 text: Кесилиспеден биринши болып өтеди:, image: /images/8022.jpg
+2025-08-20 14:16:34,437 [INFO] Question 8022 options: ['Қызыл автомобиль.', 'Көк автомобиль.', 'Сары автомобиль.', 'Жасыл автомобиль.'], correct: 3
+2025-08-20 14:16:34,438 [INFO] Successfully loaded image: data/images/8022.jpg
+2025-08-20 14:16:35,301 [INFO] Sent quiz poll 5273751877031300762 for question 8022 to user 5111968766
+2025-08-20 14:16:35,309 [INFO] Update id=144911447 is handled. Duration 2093 ms by bot id=7681391607
+2025-08-20 14:16:36,241 [INFO] User 5111968766 answered poll 5273751877031300762 with options: [1]
+2025-08-20 14:16:36,244 [INFO] Processing poll answer for user 5111968766, test 1, question 8022
+2025-08-20 14:16:36,245 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:36,245 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:36,245 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:36,245 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:36,278 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:36,296 [INFO] Updated quiz progress for user 5111968766, test 1, question 8022, correct: False
+2025-08-20 14:16:37,445 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:16:37,445 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:16:37,445 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:16:37,445 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:37,475 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:16:37,478 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:16:37,478 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:16:37,478 [INFO] User 5111968766 next question_id: 8517
+2025-08-20 14:16:37,492 [INFO] Added quiz progress for user 5111968766, test 1, question 8517
+2025-08-20 14:16:37,492 [INFO] Question 8517 text: Бундай таныў белгиси менен белгиленген транспорт қуралы:, image: /images/8517.png
+2025-08-20 14:16:37,492 [INFO] Question 8517 options: ['Аўыр салмақлы ҳəм үлкен габаритли жүклерди тасып атырған.', 'Жүги менен яки жүксиз узынлығы 20 м ден артық болған транспорт қуралы.', 'Кузов-фургонда адамларды тасып атырған.'], correct: 1
+2025-08-20 14:16:37,492 [INFO] Successfully loaded image: data/images/8517.png
+2025-08-20 14:16:38,343 [INFO] Sent quiz poll 5273751877031300763 for question 8517 to user 5111968766
+2025-08-20 14:16:38,353 [INFO] Update id=144911448 is handled. Duration 2115 ms by bot id=7681391607
+2025-08-20 14:20:14,550 [INFO] User 5111968766 answered poll 5273751877031300763 with options: [1]
+2025-08-20 14:20:14,554 [INFO] Processing poll answer for user 5111968766, test 1, question 8517
+2025-08-20 14:20:14,554 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:14,554 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:14,555 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:14,555 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:14,598 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:14,617 [INFO] Updated quiz progress for user 5111968766, test 1, question 8517, correct: True
+2025-08-20 14:20:15,797 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:15,797 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:15,797 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:15,797 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:15,841 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:15,842 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:15,843 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:15,843 [INFO] User 5111968766 next question_id: 8787
+2025-08-20 14:20:15,856 [INFO] Added quiz progress for user 5111968766, test 1, question 8787
+2025-08-20 14:20:15,857 [INFO] Question 8787 text: Омыртқаныӊ көкирек бөлими жəрəҳəтланған жəбирлениўшини қалай тасыў керек?, image: /images/8787.jpg
+2025-08-20 14:20:15,857 [INFO] Question 8787 options: ['Қатты тахтай үстинде шалқасынан жатқан ҳалда.', 'Жумсақ төсенИш үстинде шалқасынан жатқан ҳалда.', 'Қатты тахтай үстинде жамбасы менен жатқан ҳалда.'], correct: 0
+2025-08-20 14:20:15,857 [INFO] Successfully loaded image: data/images/8787.jpg
+2025-08-20 14:20:16,842 [INFO] Sent quiz poll 5273751877031300764 for question 8787 to user 5111968766
+2025-08-20 14:20:16,850 [INFO] Update id=144911449 is handled. Duration 2305 ms by bot id=7681391607
+2025-08-20 14:20:17,796 [INFO] User 5111968766 answered poll 5273751877031300764 with options: [1]
+2025-08-20 14:20:17,800 [INFO] Processing poll answer for user 5111968766, test 1, question 8787
+2025-08-20 14:20:17,800 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:17,800 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:17,800 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:17,800 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:17,833 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:17,849 [INFO] Updated quiz progress for user 5111968766, test 1, question 8787, correct: False
+2025-08-20 14:20:19,064 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:19,064 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:19,065 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:19,065 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:19,130 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:19,131 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:19,131 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:19,132 [INFO] User 5111968766 next question_id: 10185
+2025-08-20 14:20:19,148 [INFO] Added quiz progress for user 5111968766, test 1, question 10185
+2025-08-20 14:20:19,148 [INFO] Question 10185 text: Қайсы транспорт қуралы туўрыға ҳəрекетлениўге ҳақылы?, image: /images/10185.jpg
+2025-08-20 14:20:19,148 [INFO] Question 10185 options: ['Автобус ҳəм мотоцикл айдаӯшысы', 'Жеӊил ҳəм жүк автомобильлериниӊ айдаӯшылары', 'Жеӊил автомобиль айдаӯшысы'], correct: 2
+2025-08-20 14:20:19,149 [INFO] Successfully loaded image: data/images/10185.jpg
+2025-08-20 14:20:21,545 [INFO] Sent quiz poll 5273751877031300765 for question 10185 to user 5111968766
+2025-08-20 14:20:21,555 [INFO] Update id=144911450 is handled. Duration 3763 ms by bot id=7681391607
+2025-08-20 14:20:22,680 [INFO] User 5111968766 answered poll 5273751877031300765 with options: [0]
+2025-08-20 14:20:22,684 [INFO] Processing poll answer for user 5111968766, test 1, question 10185
+2025-08-20 14:20:22,684 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:22,685 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:22,685 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:22,685 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:22,725 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:22,745 [INFO] Updated quiz progress for user 5111968766, test 1, question 10185, correct: False
+2025-08-20 14:20:23,970 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:23,971 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:23,971 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:23,971 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:24,029 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:24,030 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:24,030 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:24,031 [INFO] User 5111968766 next question_id: 10613
+2025-08-20 14:20:24,047 [INFO] Added quiz progress for user 5111968766, test 1, question 10613
+2025-08-20 14:20:24,047 [INFO] Question 10613 text: Егер дəри қутысы (аптечка) ҳəм өрт сөндиргиш болмаса, қайсы транспорт қуралларынан пайдаланыў қадаған етиледи?, image: None
+2025-08-20 14:20:24,048 [INFO] Question 10613 options: ['Тек ғана М1 категориясындағы транспорт қураллары', 'Тек ғана М2; М3; N1 категориясындағы транспорт қураллары', 'Тек ғана N2; N3 категориясындағы транспорт қураллары', 'Көрсетилген барлық транспорт қураллары категориялары'], correct: 3
+2025-08-20 14:20:24,360 [INFO] Sent quiz poll 5273751877031300766 for question 10613 to user 5111968766
+2025-08-20 14:20:24,366 [INFO] Update id=144911451 is handled. Duration 1691 ms by bot id=7681391607
+2025-08-20 14:20:25,931 [INFO] User 5111968766 answered poll 5273751877031300766 with options: [3]
+2025-08-20 14:20:25,933 [INFO] Processing poll answer for user 5111968766, test 1, question 10613
+2025-08-20 14:20:25,933 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:25,933 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:25,933 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:25,933 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:25,955 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:25,971 [INFO] Updated quiz progress for user 5111968766, test 1, question 10613, correct: True
+2025-08-20 14:20:27,146 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:27,146 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:27,147 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:27,147 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:27,196 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:27,197 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:27,197 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:27,198 [INFO] User 5111968766 next question_id: 10615
+2025-08-20 14:20:27,213 [INFO] Added quiz progress for user 5111968766, test 1, question 10615
+2025-08-20 14:20:27,214 [INFO] Question 10615 text: Адамларды тасыўға мөлшерленген жүк автомобилиниӊ ернеўиниӊ (бортыныӊ) бийиклиги қандай болыўы керек:, image: None
+2025-08-20 14:20:27,214 [INFO] Question 10615 options: ['0,70 метрден кем болмаўы керек', '1,0 метрден кем болмаўы керек', '1,3 метрден кем болмаўы керек', '1,5 метрден кем болмаўы керек'], correct: 2
+2025-08-20 14:20:27,574 [INFO] Sent quiz poll 5273751877031300767 for question 10615 to user 5111968766
+2025-08-20 14:20:27,581 [INFO] Update id=144911452 is handled. Duration 1651 ms by bot id=7681391607
+2025-08-20 14:20:28,405 [INFO] User 5111968766 answered poll 5273751877031300767 with options: [3]
+2025-08-20 14:20:28,409 [INFO] Processing poll answer for user 5111968766, test 1, question 10615
+2025-08-20 14:20:28,409 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:28,409 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:28,410 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:28,410 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:28,448 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:28,465 [INFO] Updated quiz progress for user 5111968766, test 1, question 10615, correct: False
+2025-08-20 14:20:29,627 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:29,627 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:29,627 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:29,627 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:29,689 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:29,690 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:29,690 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:29,690 [INFO] User 5111968766 next question_id: 10618
+2025-08-20 14:20:29,706 [INFO] Added quiz progress for user 5111968766, test 1, question 10618
+2025-08-20 14:20:29,706 [INFO] Question 10618 text: Автомагистральларда қадаған етиледи:, image: None
+2025-08-20 14:20:29,706 [INFO] Question 10618 options: ['Бөлиўши тасманыӊ үзилген жерлерине кириў ҳəм артқа бурылыў', 'Артқа ҳəрекетлениў', '«Тоқтап турыў орыны» яки «Дем алыў орыны» белгилери менен белгиленген арнаўлы орынлардан тысқарыда тоқтаў', 'Барлық кѳрсетилген ҳəрекетлер'], correct: 3
+2025-08-20 14:20:30,093 [INFO] Sent quiz poll 5273751877031300768 for question 10618 to user 5111968766
+2025-08-20 14:20:30,101 [INFO] Update id=144911453 is handled. Duration 1700 ms by bot id=7681391607
+2025-08-20 14:20:31,041 [INFO] User 5111968766 answered poll 5273751877031300768 with options: [3]
+2025-08-20 14:20:31,045 [INFO] Processing poll answer for user 5111968766, test 1, question 10618
+2025-08-20 14:20:31,045 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:31,045 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:31,045 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:31,045 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:31,085 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:31,102 [INFO] Updated quiz progress for user 5111968766, test 1, question 10618, correct: True
+2025-08-20 14:20:33,596 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:33,597 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:33,597 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:33,597 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:33,654 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:33,655 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:33,656 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:33,656 [INFO] User 5111968766 next question_id: 10623
+2025-08-20 14:20:33,671 [INFO] Added quiz progress for user 5111968766, test 1, question 10623
+2025-08-20 14:20:33,672 [INFO] Question 10623 text: Ийри жолда ҳəрекетленгенде, автомобиль турақлы болады, егер ҳəрекет əмелге асырылса?, image: None
+2025-08-20 14:20:33,672 [INFO] Question 10623 options: ['Өткериў механизми (передача) қосылған ҳалда', 'Өткериў механизми (передача) өширилген ҳалда', 'Тезликти арттырыў менен'], correct: 0
+2025-08-20 14:20:34,866 [INFO] Sent quiz poll 5273751877031300769 for question 10623 to user 5111968766
+2025-08-20 14:20:34,871 [INFO] Update id=144911454 is handled. Duration 3834 ms by bot id=7681391607
+2025-08-20 14:20:35,749 [INFO] User 5111968766 answered poll 5273751877031300769 with options: [1]
+2025-08-20 14:20:35,752 [INFO] Processing poll answer for user 5111968766, test 1, question 10623
+2025-08-20 14:20:35,752 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:35,752 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:35,753 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:35,753 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:35,781 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:35,796 [INFO] Updated quiz progress for user 5111968766, test 1, question 10623, correct: False
+2025-08-20 14:20:36,973 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:36,974 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:36,974 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:36,974 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:37,034 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:37,035 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:37,035 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:37,035 [INFO] User 5111968766 next question_id: 10627
+2025-08-20 14:20:37,051 [INFO] Added quiz progress for user 5111968766, test 1, question 10627
+2025-08-20 14:20:37,051 [INFO] Question 10627 text: Қандай жағдайларда транспорт қуралларынан пайдаланыў қадаған етиледи?, image: None
+2025-08-20 14:20:37,051 [INFO] Question 10627 options: ['Гидравликалық тормоз системасынан суйықлық ағып турса', 'Жумысшы тормоз системасы ислемесе', 'Компрессор пневматикалық тормозлар системасында белгиленген басымды тəмийинлемесе', 'Барлық кѳрсетилген жағдайларда'], correct: 3
+2025-08-20 14:20:37,488 [INFO] Sent quiz poll 5273751877031300770 for question 10627 to user 5111968766
+2025-08-20 14:20:37,497 [INFO] Update id=144911455 is handled. Duration 1752 ms by bot id=7681391607
+2025-08-20 14:20:38,595 [INFO] User 5111968766 answered poll 5273751877031300770 with options: [1]
+2025-08-20 14:20:38,599 [INFO] Processing poll answer for user 5111968766, test 1, question 10627
+2025-08-20 14:20:38,599 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:38,599 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:38,599 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:38,599 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:38,625 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:38,641 [INFO] Updated quiz progress for user 5111968766, test 1, question 10627, correct: False
+2025-08-20 14:20:39,825 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:39,825 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:39,825 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:39,826 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:39,862 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:39,862 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:39,863 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:41,379 [INFO] Quiz completed for user 5111968766, test 1
+2025-08-20 14:20:41,383 [INFO] Update id=144911456 is handled. Duration 2790 ms by bot id=7681391607
+2025-08-20 14:20:42,397 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:42,397 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:42,397 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:42,397 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:42,431 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:42,432 [INFO] get_test_selection_keyboard received data type: <class 'list'>
+2025-08-20 14:20:42,432 [INFO] Tests JSON length: 57
+2025-08-20 14:20:42,432 [INFO] Found unique template IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]
+2025-08-20 14:20:42,432 [INFO] Created button: 📝 Тест ID: 1
+2025-08-20 14:20:42,432 [INFO] Created button: 📝 Тест ID: 2
+2025-08-20 14:20:42,432 [INFO] Created button: 📝 Тест ID: 3
+2025-08-20 14:20:42,432 [INFO] Created button: 📝 Тест ID: 4
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 5
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 6
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 7
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 8
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 9
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 10
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 11
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 12
+2025-08-20 14:20:42,433 [INFO] Created button: 📝 Тест ID: 13
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 14
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 15
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 16
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 17
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 18
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 19
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 20
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 21
+2025-08-20 14:20:42,434 [INFO] Created button: 📝 Тест ID: 22
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 23
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 24
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 25
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 26
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 27
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 28
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 29
+2025-08-20 14:20:42,435 [INFO] Created button: 📝 Тест ID: 30
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 31
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 32
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 33
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 34
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 35
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 36
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 37
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 38
+2025-08-20 14:20:42,436 [INFO] Created button: 📝 Тест ID: 39
+2025-08-20 14:20:42,437 [INFO] Created button: 📝 Тест ID: 40
+2025-08-20 14:20:42,437 [INFO] Created button: 📝 Тест ID: 41
+2025-08-20 14:20:42,437 [INFO] Created button: 📝 Тест ID: 42
+2025-08-20 14:20:42,437 [INFO] Created button: 📝 Тест ID: 43
+2025-08-20 14:20:42,437 [INFO] Created button: 📝 Тест ID: 44
+2025-08-20 14:20:42,437 [INFO] Created button: 📝 Тест ID: 45
+2025-08-20 14:20:42,437 [INFO] Created button: 📝 Тест ID: 46
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 47
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 48
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 49
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 50
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 51
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 52
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 53
+2025-08-20 14:20:42,438 [INFO] Created button: 📝 Тест ID: 54
+2025-08-20 14:20:42,439 [INFO] Created button: 📝 Тест ID: 55
+2025-08-20 14:20:42,439 [INFO] Created button: 📝 Тест ID: 56
+2025-08-20 14:20:42,439 [INFO] Created button: 📝 Тест ID: 57
+2025-08-20 14:20:42,439 [INFO] Created keyboard with 57 buttons
+2025-08-20 14:20:42,578 [INFO] Update id=144911457 is handled. Duration 187 ms by bot id=7681391607
+2025-08-20 14:20:44,125 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:44,125 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:44,125 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:44,125 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:44,175 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:44,176 [INFO] Loaded 57 tests from JSON
+2025-08-20 14:20:44,176 [ERROR] Failed to automatically reset progress for user 5111968766: reset_test_progress() missing 1 required positional argument: 'test_id'
+2025-08-20 14:20:44,405 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:44,405 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:44,405 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:44,405 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:44,438 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:44,439 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:44,439 [INFO] Available question IDs for test 2: [6240, 10635, 6460, 6777, 10633, 7881, 10624, 7558, 8790, 6639, 6409, 11528, 6354, 7827, 6955, 7851, 7198, 7561, 8793, 10629]
+2025-08-20 14:20:44,439 [INFO] User 5111968766 next question_id: 6240
+2025-08-20 14:20:44,453 [INFO] Added quiz progress for user 5111968766, test 2, question 6240
+2025-08-20 14:20:44,453 [INFO] Question 6240 text: Айдаўшы өз транспорт қуралын кимге бериўге мәжбүр?, image: None
+2025-08-20 14:20:44,453 [INFO] Question 6240 options: ['Жол хызмети хызметкерлерине', 'Тез медициналық жәрдемге мүтәж пуқараларды емлеў-профилактика мәкемесине тасыў ушын медицина хызметкерлерине'], correct: 1
+2025-08-20 14:20:44,973 [INFO] Sent quiz poll 5273751877031300771 for question 6240 to user 5111968766
+2025-08-20 14:20:44,980 [INFO] Update id=144911458 is handled. Duration 864 ms by bot id=7681391607
+2025-08-20 14:20:46,650 [INFO] Update id=144911459 is handled. Duration 163 ms by bot id=7681391607
+2025-08-20 14:20:47,568 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:47,568 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:47,568 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:47,568 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:47,610 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:47,611 [INFO] get_test_selection_keyboard received data type: <class 'list'>
+2025-08-20 14:20:47,611 [INFO] Tests JSON length: 57
+2025-08-20 14:20:47,612 [INFO] Found unique template IDs: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]
+2025-08-20 14:20:47,612 [INFO] Created button: 📝 Тест ID: 1
+2025-08-20 14:20:47,612 [INFO] Created button: 📝 Тест ID: 2
+2025-08-20 14:20:47,612 [INFO] Created button: 📝 Тест ID: 3
+2025-08-20 14:20:47,612 [INFO] Created button: 📝 Тест ID: 4
+2025-08-20 14:20:47,612 [INFO] Created button: 📝 Тест ID: 5
+2025-08-20 14:20:47,613 [INFO] Created button: 📝 Тест ID: 6
+2025-08-20 14:20:47,613 [INFO] Created button: 📝 Тест ID: 7
+2025-08-20 14:20:47,613 [INFO] Created button: 📝 Тест ID: 8
+2025-08-20 14:20:47,613 [INFO] Created button: 📝 Тест ID: 9
+2025-08-20 14:20:47,613 [INFO] Created button: 📝 Тест ID: 10
+2025-08-20 14:20:47,613 [INFO] Created button: 📝 Тест ID: 11
+2025-08-20 14:20:47,613 [INFO] Created button: 📝 Тест ID: 12
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 13
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 14
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 15
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 16
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 17
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 18
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 19
+2025-08-20 14:20:47,614 [INFO] Created button: 📝 Тест ID: 20
+2025-08-20 14:20:47,615 [INFO] Created button: 📝 Тест ID: 21
+2025-08-20 14:20:47,615 [INFO] Created button: 📝 Тест ID: 22
+2025-08-20 14:20:47,615 [INFO] Created button: 📝 Тест ID: 23
+2025-08-20 14:20:47,615 [INFO] Created button: 📝 Тест ID: 24
+2025-08-20 14:20:47,615 [INFO] Created button: 📝 Тест ID: 25
+2025-08-20 14:20:47,615 [INFO] Created button: 📝 Тест ID: 26
+2025-08-20 14:20:47,615 [INFO] Created button: 📝 Тест ID: 27
+2025-08-20 14:20:47,616 [INFO] Created button: 📝 Тест ID: 28
+2025-08-20 14:20:47,616 [INFO] Created button: 📝 Тест ID: 29
+2025-08-20 14:20:47,616 [INFO] Created button: 📝 Тест ID: 30
+2025-08-20 14:20:47,616 [INFO] Created button: 📝 Тест ID: 31
+2025-08-20 14:20:47,616 [INFO] Created button: 📝 Тест ID: 32
+2025-08-20 14:20:47,616 [INFO] Created button: 📝 Тест ID: 33
+2025-08-20 14:20:47,616 [INFO] Created button: 📝 Тест ID: 34
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 35
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 36
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 37
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 38
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 39
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 40
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 41
+2025-08-20 14:20:47,617 [INFO] Created button: 📝 Тест ID: 42
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 43
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 44
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 45
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 46
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 47
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 48
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 49
+2025-08-20 14:20:47,618 [INFO] Created button: 📝 Тест ID: 50
+2025-08-20 14:20:47,619 [INFO] Created button: 📝 Тест ID: 51
+2025-08-20 14:20:47,619 [INFO] Created button: 📝 Тест ID: 52
+2025-08-20 14:20:47,619 [INFO] Created button: 📝 Тест ID: 53
+2025-08-20 14:20:47,619 [INFO] Created button: 📝 Тест ID: 54
+2025-08-20 14:20:47,619 [INFO] Created button: 📝 Тест ID: 55
+2025-08-20 14:20:47,619 [INFO] Created button: 📝 Тест ID: 56
+2025-08-20 14:20:47,619 [INFO] Created button: 📝 Тест ID: 57
+2025-08-20 14:20:47,619 [INFO] Created keyboard with 57 buttons
+2025-08-20 14:20:47,837 [INFO] Update id=144911460 is handled. Duration 280 ms by bot id=7681391607
+2025-08-20 14:20:48,702 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:48,702 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:48,703 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:48,703 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:48,741 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:48,742 [INFO] Loaded 57 tests from JSON
+2025-08-20 14:20:48,742 [ERROR] Failed to automatically reset progress for user 5111968766: reset_test_progress() missing 1 required positional argument: 'test_id'
+2025-08-20 14:20:49,014 [INFO] load_quiz_data called with parameter: 'kk'
+2025-08-20 14:20:49,015 [INFO] Parameter type: <class 'str'>
+2025-08-20 14:20:49,015 [INFO] LANG_FILES lookup result: data/kaa_kiril.fixed.json
+2025-08-20 14:20:49,015 [INFO] Resolved absolute path for kk: /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:49,062 [INFO] Successfully loaded quiz data from /home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json
+2025-08-20 14:20:49,063 [INFO] Loaded quiz data with 57 tests
+2025-08-20 14:20:49,063 [INFO] Available question IDs for test 1: [6870, 6671, 10613, 8022, 6952, 7876, 7594, 10615, 8787, 8517, 6272, 6838, 7734, 10618, 10185, 7878, 7312, 7330, 10623, 10627]
+2025-08-20 14:20:49,628 [INFO] Update id=144911461 is handled. Duration 933 ms by bot id=7681391607
+2025-08-20 14:21:50,099 [WARNING] Received SIGINT signal
+2025-08-20 14:21:50,100 [INFO] Polling stopped for bot @IAvtotestbot id=7681391607 - 'IAvto Test'
+2025-08-20 14:21:50,101 [INFO] Polling stopped
