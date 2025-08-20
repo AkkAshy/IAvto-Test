@@ -22,10 +22,7 @@ async def start(message: Message):
     user = await get_user(message.from_user.id)
 
     if user:
-        await message.answer(
-            t(lang, "start_message.registered").format(phone=user.phone_number),
-            reply_markup=main_menu(lang)
-        )
+        await message.answer(t(lang, "start_message.registered").format(phone=user.phone_number))
     else:
         await message.answer(
             t(lang, "start_message.not_registered"),
@@ -51,8 +48,8 @@ async def handle_contact(message: Message):
 
 @router.message(F.text == "🌐 Установить язык")
 async def select_language(message: Message):
-    await message.answer("Выберите язык:", reply_markup=language_menu())
-
+    lang = await get_user_language(message.from_user.id) or "ru"
+    await message.answer(t(lang, "language.select"), reply_markup=language_menu())
 
 
 @router.message(F.text.in_([f"🌐 {lang.upper()}" for lang in LANG_FILES]))

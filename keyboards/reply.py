@@ -1,12 +1,35 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from config.config import LANG_FILES
+from services.quiz_service import t
 import logging
 
 logger = logging.getLogger(__name__)
 
-def get_phone_keyboard() -> ReplyKeyboardMarkup:
-    keyboard = [[KeyboardButton(text="Отправить мой номер", request_contact=True)]]
+def get_phone_keyboard(lang="ru") -> ReplyKeyboardMarkup:
+    keyboard = [[KeyboardButton(text=t(lang, "contact.button"), request_contact=True)]]
     return ReplyKeyboardMarkup(keyboard=keyboard, one_time_keyboard=True, resize_keyboard=True)
+
+def main_menu(lang="ru") -> ReplyKeyboardMarkup:
+    return ReplyKeyboardMarkup(
+        keyboard=[
+            [KeyboardButton(text=t(lang, "menu.test"))],
+            [KeyboardButton(text=t(lang, "menu.language"))]
+        ],
+        resize_keyboard=True
+    )
+
+def language_menu() -> ReplyKeyboardMarkup:
+    return ReplyKeyboardMarkup(
+        keyboard=[
+            [KeyboardButton(text=f"🌐 {lang.upper()}") for lang in LANG_FILES]
+        ],
+        resize_keyboard=True
+    )
+
+STOP_BUTTON = ReplyKeyboardMarkup(
+    keyboard=[[KeyboardButton(text="🛑 Стоп")]],  # TODO: локализовать
+    resize_keyboard=True
+)
 
 def get_test_selection_keyboard(tests_json):
     """
@@ -33,7 +56,7 @@ def get_test_selection_keyboard(tests_json):
 
         # Создаём кнопки для каждого уникального ID
         for template_id in sorted(template_ids):
-            button_text = f"📝 Тест ID: {template_id}"
+            button_text = f"📝 Тест ID: {template_id}"  # TODO: локализовать через t(lang, "test_button").format(id=template_id)
             buttons.append([KeyboardButton(text=button_text)])
             logger.info(f"Created button: {button_text}")
 
@@ -61,25 +84,3 @@ def get_test_selection_keyboard(tests_json):
             keyboard=[[KeyboardButton(text="📝 Тест")]],
             resize_keyboard=True
         )
-
-
-STOP_BUTTON = ReplyKeyboardMarkup(
-    keyboard=[[KeyboardButton(text="🛑 Стоп")]],
-    resize_keyboard=True
-)
-
-def main_menu():
-    return ReplyKeyboardMarkup(
-        keyboard=[
-            [KeyboardButton(text="🚀 Начать тест")],
-            [KeyboardButton(text="🌐 Установить язык")]
-        ],
-        resize_keyboard=True
-    )
-
-def language_menu():
-    return ReplyKeyboardMarkup(
-        keyboard=[
-            [KeyboardButton(text=f"🌐 {lang.upper()}") for lang in LANG_FILES]
-        ]
-    )
