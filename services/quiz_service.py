@@ -80,7 +80,7 @@ with open(TRANSLATIONS_PATH, "r", encoding="utf-8") as f:
 def t(lang: str, key: str):
     """ Получить перевод по ключу """
     parts = key.split(".")
-    text = translations.get(lang, translations["ru"])
+    text = translations.get(lang, translations["kk"])
     for part in parts:
         text = text.get(part, None)
         if text is None:

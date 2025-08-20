@@ -26,8 +26,8 @@ def fix_questions(data):
 
 
 if __name__ == "__main__":
-    in_path = Path("/home/kanat/Codes/py_project/Avtotest/export/template_uz.json")
-    out_path = Path("/home/kanat/Codes/py_project/Avtotest/export/template_uz.fixed.json")
+    in_path = Path("/home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.json")
+    out_path = Path("/home/kanat/Codes/py_project/Avtotest/data/kaa_kiril.fixed.json")
 
     with in_path.open("r", encoding="utf-8") as f:
         data = json.load(f)

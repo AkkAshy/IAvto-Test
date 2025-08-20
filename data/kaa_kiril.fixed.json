@@ -8,12 +8,12 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı mashinağa bul belgileriń tásir etiwi zonasında toqtawğa ruqsat etiledi?"
+            "value": "Бул белгилердиӊ тəсир етиў аймағында қайсы автомобильге тоқтаўға рухсат етиледи?"
           },
           {
             "order": 2,
             "type": 2,
-            "value": "/images/6870.png"
+            "value": "/images/6870.jpg"
           }
         ],
         "answers": [
@@ -24,7 +24,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qızıl mashinağa"
+                "value": "Қызылға"
               }
             ],
             "check": 0
@@ -36,7 +36,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Eki mashinağa da"
+                "value": "Ҳəр еки автомобильге"
               }
             ],
             "check": 0
@@ -48,7 +48,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Hesh birine"
+                "value": "Ҳеш бирине"
               }
             ],
             "check": 0
@@ -60,7 +60,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Sarı mashinağa"
+                "value": "Сарыға"
               }
             ],
             "check": 1
@@ -76,7 +76,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Belgilengen strelkalardan qaysı bağdarlarda júriwge ruqsat etiledi?"
+            "value": "Көрсетилген бағдарлар бойынша қайсы жөнелислерде ҳəрекетлениўге рухсат етиледи?"
           },
           {
             "order": 2,
@@ -92,7 +92,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek A bağdarı boyınsha."
+                "value": "Тек ғана А жөнелиси бойынша."
               }
             ],
             "check": 0
@@ -104,7 +104,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek B bağdarı boyınsha."
+                "value": "Тек ғана B жөнелиси бойынша."
               }
             ],
             "check": 0
@@ -116,7 +116,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek C bağdarı boyınsha."
+                "value": "Тек ғана C жөнелиси бойынша."
               }
             ],
             "check": 0
@@ -128,7 +128,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek A hám D bağdarları boyınsha."
+                "value": "Тек ғана А ҳəм D жөнелислери бойынша."
               }
             ],
             "check": 1
@@ -140,7 +140,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek D bağdarı boyınsha."
+                "value": "Тек ғана D жөнелиси бойынша."
               }
             ],
             "check": 0
@@ -156,7 +156,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Aptechka hám ót óshirgiş bolmağan jagdayda qaysı kólik quralların paydalanıw qadağan etiledi?"
+            "value": "Егер дəри қутысы (аптечка) ҳəм өрт сөндиргиш болмаса, қайсы транспорт қуралларынан пайдаланыў қадаған етиледи?"
           }
         ],
         "answers": [
@@ -167,7 +167,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek M1 kategoriyasındağı kólik quralları"
+                "value": "Тек ғана М1 категориясындағы транспорт қураллары"
               }
             ],
             "check": 0
@@ -179,7 +179,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek M2, M3, N1 kategoriyasındağı kólik quralları"
+                "value": "Тек ғана М2; М3; N1 категориясындағы транспорт қураллары"
               }
             ],
             "check": 0
@@ -191,7 +191,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek N2, N3 kategoriyasındağı kólik quralları"
+                "value": "Тек ғана N2; N3 категориясындағы транспорт қураллары"
               }
             ],
             "check": 0
@@ -203,7 +203,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Barlıq kórsetilgen kategoriyalardağı kólik quralları"
+                "value": "Көрсетилген барлық транспорт қураллары категориялары"
               }
             ],
             "check": 1
@@ -219,7 +219,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Jolayırıqtan birinshi bolıp ótedi:"
+            "value": "Кесилиспеден биринши болып өтеди:"
           },
           {
             "order": 2,
@@ -235,7 +235,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qızıl mashina."
+                "value": "Қызыл автомобиль."
               }
             ],
             "check": 0
@@ -247,7 +247,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kók mashina."
+                "value": "Көк автомобиль."
               }
             ],
             "check": 0
@@ -259,7 +259,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Sarı mashina."
+                "value": "Сары автомобиль."
               }
             ],
             "check": 0
@@ -271,7 +271,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jasıl mashina."
+                "value": "Жасыл автомобиль."
               }
             ],
             "check": 1
@@ -287,7 +287,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Júriw qadağan etiledi:"
+            "value": "Ҳəрекетлениў қадаған етиледи:"
           },
           {
             "order": 2,
@@ -303,7 +303,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qızıl hám aq mashinalarğa."
+                "value": "Қызыл ҳəм ақ автомобильлерге."
               }
             ],
             "check": 0
@@ -315,7 +315,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kók, jasıl hám aq mashinalarğa."
+                "value": "Көк, жасыл ҳəм ақ автомобильлерге."
               }
             ],
             "check": 1
@@ -327,7 +327,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Aq, kók hám sarı mashinalarğa."
+                "value": "Ақ, көк ҳəм сары автомобильлерге."
               }
             ],
             "check": 0
@@ -343,7 +343,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik qurallarınıń haydawshıları jolayırıqtan birinshi bolıp ótedi?"
+            "value": "Қайсы транспорт қуралларыныӊ айдаӯшылары кесилиспеден биринши болып өтеди?"
           },
           {
             "order": 2,
@@ -359,7 +359,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Avtomobil hám avtobus haydawshıları"
+                "value": "Автомобиль ҳəм автобус айдаӯшылары"
               }
             ],
             "check": 1
@@ -371,7 +371,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tramvay haydawshısı"
+                "value": "Трамвай айдаӯшысы"
               }
             ],
             "check": 0
@@ -387,7 +387,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul jerde toqtawğa ruqsat etiledi me?"
+            "value": "Бул орында тоқтап турыўға рухсат етиле ме?"
           },
           {
             "order": 2,
@@ -403,7 +403,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ruqsat etiledi."
+                "value": "Рухсат етиледи."
               }
             ],
             "check": 1
@@ -415,7 +415,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qadağan etiledi."
+                "value": "Қадаған етиледи."
               }
             ],
             "check": 0
@@ -431,7 +431,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Adamlardı tasıwğa arnalğan júk avtomobiliniń bort biyikligi:"
+            "value": "Адамларды тасыўға мөлшерленген жүк автомобилиниӊ ернеўиниӊ (бортыныӊ) бийиклиги қандай болыўы керек:"
           }
         ],
         "answers": [
@@ -442,7 +442,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "keminde 0,70 metr bolıwı kerek"
+                "value": "0,70 метрден кем болмаўы керек"
               }
             ],
             "check": 0
@@ -454,7 +454,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "keminde 1,0 metr bolıwı kerek"
+                "value": "1,0 метрден кем болмаўы керек"
               }
             ],
             "check": 0
@@ -466,7 +466,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "keminde 1,3 metr bolıwı kerek"
+                "value": "1,3 метрден кем болмаўы керек"
               }
             ],
             "check": 1
@@ -478,7 +478,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "keminde 1,5 metr bolıwı kerek"
+                "value": "1,5 метрден кем болмаўы керек"
               }
             ],
             "check": 0
@@ -494,7 +494,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Kókrek bólimi omırtqası zaqımlanğan jabirleniwshini qalayınsha transportirovka qılıw kerek?"
+            "value": "Омыртқаныӊ көкирек бөлими жəрəҳəтланған жəбирлениўшини қалай тасыў керек?"
           },
           {
             "order": 2,
@@ -510,7 +510,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qattı taxtada shalqasınan jatıwı kerek."
+                "value": "Қатты тахтай үстинде шалқасынан жатқан ҳалда."
               }
             ],
             "check": 1
@@ -522,7 +522,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jumsaq tóselgide shalqasınan jatıwı kerek."
+                "value": "Жумсақ төсенИш үстинде шалқасынан жатқан ҳалда."
               }
             ],
             "check": 0
@@ -534,7 +534,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qattı taxtada qaptalı menen jatıwı kerek."
+                "value": "Қатты тахтай үстинде жамбасы менен жатқан ҳалда."
               }
             ],
             "check": 0
@@ -550,7 +550,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul taniw belgisi menen qaysı kólik quralı belgilenedi:"
+            "value": "Бундай таныў белгиси менен белгиленген транспорт қуралы:"
           },
           {
             "order": 2,
@@ -566,7 +566,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Awır hám iri kólemli júklerdi tasıwshı."
+                "value": "Аўыр салмақлы ҳəм үлкен габаритли жүклерди тасып атырған."
               }
             ],
             "check": 0
@@ -578,7 +578,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Júk penen yamasa júksiz uzınlığı 20 metrden asatın kólik quralı."
+                "value": "Жүги менен яки жүксиз узынлығы 20 м ден артық болған транспорт қуралы."
               }
             ],
             "check": 1
@@ -590,7 +590,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Adamlardı furgon-kusovta tasıwshı."
+                "value": "Кузов-фургонда адамларды тасып атырған."
               }
             ],
             "check": 0
@@ -606,7 +606,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Sarğısh túsdegi jıltırlawıq mayak qozğalıs barısında basımlıq bere me?"
+            "value": "Жанып турған сарғыш реӊли жылтылдаўық шам жол ҳəрекетинде үстинлик бере ме?"
           },
           {
             "order": 2,
@@ -622,7 +622,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Awa"
+                "value": "Ауа"
               }
             ],
             "check": 0
@@ -634,7 +634,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Yaq"
+                "value": "Жок"
               }
             ],
             "check": 1
@@ -650,7 +650,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul belgi tómendegi bağdarlarda júriwge ruqsat beredi:"
+            "value": "Бул белги төмендеги жөнелислерде ҳəрекетлениўге рухсат береди:"
           },
           {
             "order": 2,
@@ -666,7 +666,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek solğa"
+                "value": "Тек ғана шепке"
               }
             ],
             "check": 0
@@ -678,7 +678,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek tuwrı"
+                "value": "Тек ғана туўрыға"
               }
             ],
             "check": 0
@@ -690,7 +690,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek ońğa"
+                "value": "Тек ғана оӊға"
               }
             ],
             "check": 0
@@ -702,7 +702,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tuwrı, ońğa hám keri bağdarda"
+                "value": "Туўрыға, оӊға ҳəм артқа қайтыўға"
               }
             ],
             "check": 1
@@ -718,7 +718,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul marker ne haqqında eskertedi?"
+            "value": "Бул сызық не ҳаққында ескертеди?"
           },
           {
             "order": 2,
@@ -734,7 +734,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kólik quralların májbúriy toqtatıw ornına jaqınlasıw haqqında."
+                "value": "Транспорт қуралларыныӊ мəжбүрий тоқтаў орынларына жақынласып атырғаны ҳаққында."
               }
             ],
             "check": 0
@@ -746,7 +746,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "«Toqtawsız júriw qadağan» belgisi menen birge qollanılğanda «Stop» sızığına jaqınlasıw haqqında."
+                "value": "«Тоқтамай ҳəрекетлениў қадаған етиледи» белгиси менен бирге қолланылғанда «Стоп» сызығына жақынласып атырғаны ҳаққында."
               }
             ],
             "check": 1
@@ -758,7 +758,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kólik quralı piyadalarga jol beriw kerek bolğan jerge jaqınlasıw haqqında."
+                "value": "Транспорт қуралы пиядаларға жол бериўи керек болған орынға жақынласқаны ҳаққында."
               }
             ],
             "check": 0
@@ -774,7 +774,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Avtomagistralda qadağan etiledi:"
+            "value": "Автомагистральларда қадаған етиледи:"
           }
         ],
         "answers": [
@@ -785,7 +785,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qayta burılıw hám bóliwshi polosada ótiwge shığıw"
+                "value": "Бөлиўши тасманыӊ үзилген жерлерине кириў ҳəм артқа бурылыў"
               }
             ],
             "check": 0
@@ -797,7 +797,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Artqa júriw"
+                "value": "Артқа ҳəрекетлениў"
               }
             ],
             "check": 0
@@ -809,7 +809,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "«Toqtaw ornı» yamasa «Dem alıw ornı» belgisi menen belgilengen arnawlı maydonshalardan tısqarı toqtaw"
+                "value": "«Тоқтап турыў орыны» яки «Дем алыў орыны» белгилери менен белгиленген арнаўлы орынлардан тысқарыда тоқтаў"
               }
             ],
             "check": 0
@@ -821,7 +821,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Joqarıda kórsetilgen barlıq háreketler"
+                "value": "Барлық кѳрсетилген ҳəрекетлер"
               }
             ],
             "check": 1
@@ -837,7 +837,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik quralı tuwrı júriwge haqlı?"
+            "value": "Қайсы транспорт қуралы туўрыға ҳəрекетлениўге ҳақылы?"
           },
           {
             "order": 2,
@@ -853,7 +853,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Avtobus hám motocikl haydawshısı"
+                "value": "Автобус ҳəм мотоцикл айдаӯшысы"
               }
             ],
             "check": 0
@@ -865,7 +865,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jeńil hám júk avtomobilleri haydawshıları"
+                "value": "Жеӊил ҳəм жүк автомобильлериниӊ айдаӯшылары"
               }
             ],
             "check": 0
@@ -877,7 +877,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jeńil avtomobil haydawshısı"
+                "value": "Жеӊил автомобиль айдаӯшысы"
               }
             ],
             "check": 1
@@ -893,7 +893,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik quralınıń haydawshısı jol beriwi kerek?"
+            "value": "Қайсы транспорт қуралыныӊ айдаӯшысы жол бериўи керек?"
           },
           {
             "order": 2,
@@ -909,7 +909,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Avtomobil haydawshısı."
+                "value": "Автомобиль айдаӯшысы."
               }
             ],
             "check": 0
@@ -921,7 +921,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tramvay haydawshısı."
+                "value": "Трамвай айдаӯшысы."
               }
             ],
             "check": 1
@@ -937,7 +937,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Kólik quralın artqa júrgizgende haydawshı qanday talaplarğa ámel qılıwı kerek?"
+            "value": "Айдаӯшы транспорт қуралын артқа басқарғанда қандай талапларды орынлаўы керек?"
           },
           {
             "order": 2,
@@ -953,7 +953,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qozğalıstıń basqa qatnasıwshılarına tosqınlıq jasamaw. Qozğalıs qáwipsizligin támiyinlew ushın zárúr bolğan jagdayda basqa adamlardıń járdeminen paydalanıw"
+                "value": "Басқа қатнасыўшыларға кесент етпеў. Зәрүр болғанда, қәўипсизликти тəмийинлеў ушын басқа шахслардыӊ жәрдеминен пайдаланыў"
               }
             ],
             "check": 1
@@ -965,7 +965,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Basqa adamlardıń járdeminen paydalanıw"
+                "value": "Басқа шахслардыӊ жəрдеминен пайдаланыў"
               }
             ],
             "check": 0
@@ -977,7 +977,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Eger kólik quralında bar bolsa, artqı tumanğa qarsı shoraqlardı qosıw"
+                "value": "Егер транспорт қуралында бар болса, артқы туманға қарсы шыраларды жағыў"
               }
             ],
             "check": 0
@@ -989,7 +989,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Gabarit shıraqlardı qosıw"
+                "value": "Габарит отларын жағыў"
               }
             ],
             "check": 0
@@ -1005,7 +1005,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qashan qarsı bağdardağı qozğalısqa arnalğan jol tárepine shığıw qadağan etiledi?"
+            "value": "Қарсы ҳəрекетке мөлшерленген жолдыӊ тәрепине шығыў қашан қадаған етиледи?"
           }
         ],
         "answers": [
@@ -1016,7 +1016,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tórt hám onnan kóp polosaları bar eki tárepli qozğalıs jollarında."
+                "value": "Төрт яки оннан да көп жолақлары болған еки тәреплеме ҳәрекет жолларында."
               }
             ],
             "check": 0
@@ -1028,7 +1028,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qarama-qarsı bağdardağı transport ağımların bóliwshi eki tutasqan sızıq túrindegi jol markerli eki tárepli qozğalıs jollarında."
+                "value": "Қарсы жөнелислердеги транспорт ағымларын бөлип турыўшы еки үзиксиз сызық түриндеги жол белгилери болған еки тәреплеме ҳәрекет жолларында."
               }
             ],
             "check": 0
@@ -1040,7 +1040,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Joqarıda kórsetilgen barlıq jagdaylarda."
+                "value": "Барлық кѳрсетилген жағдайларда."
               }
             ],
             "check": 1
@@ -1056,7 +1056,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Iyrek jol boyınsha harakatlanğanda mashina qay jagdayda kóbirek turaqtı boladi?"
+            "value": "Ийри жолда ҳəрекетленгенде, автомобиль турақлы болады, егер ҳəрекет əмелге асырылса?"
           }
         ],
         "answers": [
@@ -1067,7 +1067,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qosılğan beriliste"
+                "value": "Өткериў механизми (передача) қосылған ҳалда"
               }
             ],
             "check": 1
@@ -1079,7 +1079,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ósherilgen beriliste"
+                "value": "Өткериў механизми (передача) өширилген ҳалда"
               }
             ],
             "check": 0
@@ -1091,7 +1091,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tezlikti artırğanda"
+                "value": "Тезликти арттырыў менен"
               }
             ],
             "check": 0
@@ -1107,7 +1107,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qanday jagdaylarda kólik quralların paydalanıw qadağan etiledi?"
+            "value": "Қандай жағдайларда транспорт қуралларынан пайдаланыў қадаған етиледи?"
           }
         ],
         "answers": [
@@ -1118,7 +1118,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Gidravlikalıq tormoz sistemasınan suyıqlıq ağıp tursa"
+                "value": "Гидравликалық тормоз системасынан суйықлық ағып турса"
               }
             ],
             "check": 0
@@ -1130,7 +1130,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jumıs tormoz sisteması islemese"
+                "value": "Жумысшы тормоз системасы ислемесе"
               }
             ],
             "check": 0
@@ -1142,7 +1142,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kompressor pnevmatikalıq tormoz sistemasında belgilengen basımdı támiyinlemese"
+                "value": "Компрессор пневматикалық тормозлар системасында белгиленген басымды тəмийинлемесе"
               }
             ],
             "check": 0
@@ -1154,7 +1154,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Joqarıda kórsetilgen barlıq jagdaylarda"
+                "value": "Барлық кѳрсетилген жағдайларда"
               }
             ],
             "check": 1
@@ -1184,7 +1184,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Haydawshı óz kólik quralın kimge beriw kerek?"
+            "value": "Айдаўшы өз транспорт қуралын кимге бериўге мәжбүр?"
           }
         ],
         "answers": [
@@ -1195,7 +1195,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jol xızmetkerleri"
+                "value": "Жол хызмети хызметкерлерине"
               }
             ],
             "check": 0
@@ -1207,7 +1207,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Keshiktirilmeytuǵın tibbiy járdem múhtaj puqaralardı emlewxanaǵa tasıw ushın tibbiy xızmetkerleri"
+                "value": "Тез медициналық жәрдемге мүтәж пуқараларды емлеў-профилактика мәкемесине тасыў ушын медицина хызметкерлерине"
               }
             ],
             "check": 1
@@ -1223,7 +1223,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı bağdarlarda júriwge ruqsat etiledi?"
+            "value": "Қайсы жөнелислерде ҳәрекетлениўге рухсат етилген?"
           },
           {
             "order": 2,
@@ -1239,7 +1239,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek «B»"
+                "value": "Тек ғана «B»"
               }
             ],
             "check": 0
@@ -1251,7 +1251,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek «А»"
+                "value": "Тек ғана «А»"
               }
             ],
             "check": 0
@@ -1263,7 +1263,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "«А» hám «B»"
+                "value": "«А» ҳәм «B»"
               }
             ],
             "check": 1
@@ -1275,7 +1275,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "«А», «B», «C» hám «D»"
+                "value": "«А», «B», «C» ҳәм «D»"
               }
             ],
             "check": 0
@@ -1287,7 +1287,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "«А», «B» hám «C»."
+                "value": "«А», «B» ҳәм «C»."
               }
             ],
             "check": 0
@@ -1303,7 +1303,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı belgi qarsı qozǵalıstıń basımlıǵın belgileydi?"
+            "value": "Қайсы белги қарама-қарсы ҳәрекеттиң үстинлигин билдиреди?"
           },
           {
             "order": 2,
@@ -1383,7 +1383,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı belgi jaşaw orınlarında qozǵalıs tártibin belgileytuǵın Qáǵıydalar talaplardıń kúshin joǵaltqan ornın kórsetedi?"
+            "value": "Белгилердиң қайсы бири елди мекенлерде ҳәрекетлениў тәртибин белгилейтуғын Қағыйдалардың талаплары өз күшин жойтатУғын орынды көрсетеди?"
           },
           {
             "order": 2,
@@ -1399,7 +1399,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek А."
+                "value": "Тек ғана А."
               }
             ],
             "check": 0
@@ -1411,7 +1411,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek C."
+                "value": "Тек ғана C."
               }
             ],
             "check": 1
@@ -1423,7 +1423,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "C hám D."
+                "value": "C ҳәм D."
               }
             ],
             "check": 0
@@ -1435,7 +1435,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Barlıǵı."
+                "value": "Ҳәммеси."
               }
             ],
             "check": 0
@@ -1451,7 +1451,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Oń tárepke burılǵanda usı belgi menen belgilengen polosaǵa shıǵıwǵa ruqsat etiledi me?"
+            "value": "Оңға бурылғанда бул белги менен белгиленген жолаққа кириўге рухсат етиле ме?"
           },
           {
             "order": 2,
@@ -1467,7 +1467,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ruqsat etiledi"
+                "value": "Рухсат етиледи"
               }
             ],
             "check": 0
@@ -1479,7 +1479,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qadaǵan etiledi"
+                "value": "Қадаған етиледи"
               }
             ],
             "check": 0
@@ -1491,7 +1491,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Polosa joldıń qalǵan bóliminen tutasqan sızıq penen shegaralanbaǵan bolsa ruqsat etiledi"
+                "value": "Егер жолақ жолдың қалған бөлегинен тутас сызық пенен шегараланбаған болса, рухсат етиледи"
               }
             ],
             "check": 1
@@ -1507,7 +1507,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Kólik quralları jolayırıqtan tómendegi tártipte ótedi:"
+            "value": "Транспорт қураллары кесилиспеден төмендеги тәртипте өтеди:"
           },
           {
             "order": 2,
@@ -1523,7 +1523,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tramvay hám avtobus, jeńil avtomobil."
+                "value": "Трамвай ҳәм автобус, жеңил автомобиль."
               }
             ],
             "check": 0
@@ -1535,7 +1535,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tramvay, jeńil avtomobil, avtobus."
+                "value": "Трамвай, жеңил автомобиль, автобус."
               }
             ],
             "check": 0
@@ -1547,7 +1547,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jeńil avtomobil, tramvay hám avtobus."
+                "value": "Жеңил автомобиль, трамвай ҳәм автобус."
               }
             ],
             "check": 1
@@ -1563,7 +1563,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Avtomobildiń qaysı dóńgelekleri \"sırǵalıw menen\" tormozlawǵa kóbirek berilgish?"
+            "value": "Автомобильдиң қайсы дөңгелеклери \"сырғанаў\" менен тормозланыўға көбирек ушырайды?"
           }
         ],
         "answers": [
@@ -1574,7 +1574,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Artqı dóńgelekler"
+                "value": "Артқы дөңгелеклер"
               }
             ],
             "check": 1
@@ -1586,7 +1586,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Aldıńǵı dóńgelekler"
+                "value": "Алдыңғы дөңгелеклер"
               }
             ],
             "check": 0
@@ -1602,7 +1602,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik quralların júriw bóleginde eki qatarǵa qoyıwǵa ruqsat etiledi?"
+            "value": "Жолдың қатнаў бөлегинде қайсы транспорт қуралларын еки қатар етип қойыўға рухсат етиледи?"
           }
         ],
         "answers": [
@@ -1613,7 +1613,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Shetten tirkemesi bolmaǵan eki dóńgelekli kólik quralları."
+                "value": "Жан тиркемеси жоқ еки дөңгелекли транспорт қураллары."
               }
             ],
             "check": 1
@@ -1625,7 +1625,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Shetten tirkemesi bar motocikller."
+                "value": "Жан тиркемеси бар мотоцикллер."
               }
             ],
             "check": 0
@@ -1637,7 +1637,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "«Mayıp» tanıw belgisi bar jeńil avtomobiller."
+                "value": "«Нөгиран» таныў белгиси орнатылған жеңил автомобильлер."
               }
             ],
             "check": 0
@@ -1649,7 +1649,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Trotuar boyında jaylasqan sawda hám basqa kárxanalardı xızmet kórsetiwshi, ruqsat etilgen maksimal massası 3,5 tonnadan aspaǵan júk avtomobilleri."
+                "value": "Рухсат етилген максимал салмағы 3,5 тоннадан аспайтуғын, тиккелей тротуарлар бойында жайласқан саўда ҳәм басқа кәрханаларға хызмет көрсететуғын жүк автомобильлери."
               }
             ],
             "check": 0
@@ -1665,7 +1665,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qol jaraqatlanǵanda kiyim durıs qalayınsha kiyiledi?"
+            "value": "Қол жарақатланғанда кийим қалай кийиледи?"
           },
           {
             "order": 2,
@@ -1681,7 +1681,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kiyim dáslep jaraqatlanǵan qolǵa, keyin saw qolǵa kiyiledi."
+                "value": "Кийим дәслеп жарақатланған қолға, соңынан саў қолға кийиледи."
               }
             ],
             "check": 1
@@ -1693,7 +1693,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kiyim eki qolǵa birden kiyiledi."
+                "value": "Кийим еки қолға бирден кийиледи."
               }
             ],
             "check": 0
@@ -1705,7 +1705,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kiyim dáslep saw qolǵa, keyin jaraqatlanǵan qolǵa kiyiledi."
+                "value": "Кийим дәслеп саў қолға, соңынан жарақатланған қолға кийиледи."
               }
             ],
             "check": 0
@@ -1721,7 +1721,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Júk kólik quralına sonday jaylastırılıwı kerek ki, ol:"
+            "value": "Жүк транспорт қуралына сондай етип жайластырылыўы керек, ол:"
           }
         ],
         "answers": [
@@ -1732,7 +1732,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Shawqım shıǵarmasın, shaň kótermesin hám joldı hám átirap ortalıqtı patarlamasın, májbúriy túrde brezent yamasa basqa qalıń material menen japlıwı kerek."
+                "value": "Шаўқым шығармаўы, шаң көтермеўи ҳәм жолды ҳәм қоршаған орталықты пыс-пас етпеўи, мәжбүрий тәртипте брезент ямаса басқа тығыз материал менен жабылыўы керек."
               }
             ],
             "check": 1
@@ -1744,7 +1744,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kólik quralınıń artqı shegara ólsherinen artqa qaray 0,8 metrden artıq shıǵıp turmasın."
+                "value": "Транспорт қуралының артқы габаритинен 0,8 метрден артық шығып турмаўы керек."
               }
             ],
             "check": 0
@@ -1756,7 +1756,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Bortlar dárejesinen joqarı jaylaspaǵan bolsın."
+                "value": "Ернеўлерден (бортлардан) бәлент болмаўы керек."
               }
             ],
             "check": 0
@@ -1772,7 +1772,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul jol belgisi belgileydi:"
+            "value": "Бул жол белгиси билдиреди:"
           },
           {
             "order": 2,
@@ -1788,7 +1788,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Trotuar yamasa piyada jolı bar jol bólimi."
+                "value": "Тротуар ямаса пиядалар жолағы бар жол бөлеги."
               }
             ],
             "check": 0
@@ -1800,7 +1800,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Piyada ótiwi bar jol bólimi."
+                "value": "Пиядалар өтиў жолы бар жол бөлеги."
               }
             ],
             "check": 1
@@ -1816,7 +1816,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik qurallarına toqtaw ruqsat etiledi?"
+            "value": "Қайсы транспорт қуралларына тоқтап турыўға рухсат етилген?"
           },
           {
             "order": 2,
@@ -1832,7 +1832,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek motociklge"
+                "value": "Тек ғана мотоциклге"
               }
             ],
             "check": 0
@@ -1844,7 +1844,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek tolıq massası 3,5 tonnadan joqarı avtomobilge"
+                "value": "Толық салмағы 3,5 тоннадан аслатуғын автомобильге ғана"
               }
             ],
             "check": 0
@@ -1856,7 +1856,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek jeńil avtomobilge"
+                "value": "Тек ғана жеңил автомобильге"
               }
             ],
             "check": 0
@@ -1868,7 +1868,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jeńil avtomobil hám motociklge"
+                "value": "Жеңил автомобильге ҳәм мотоциклге"
               }
             ],
             "check": 1
@@ -1880,7 +1880,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Barlıq kólik qurallarına"
+                "value": "Барлық транспорт қуралларына"
               }
             ],
             "check": 0
@@ -1896,7 +1896,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul jol belgisi eskertiw etedi:"
+            "value": "Бул жол белгиси ескертеди:"
           },
           {
             "order": 2,
@@ -1912,7 +1912,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Bir jollı temir jol ótpesin jaqınlasıw haqqında"
+                "value": "Бир жоллы темир жол кесилиспесине жақынласыў ҳаққында"
               }
             ],
             "check": 0
@@ -1924,7 +1924,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Shlagbaum menen jabdıqlanbaǵan bir jollı temir jol ótpesi haqqında"
+                "value": "Шлагбаум менен үскенеленбеген бир жоллы темир жол кесилиспеси ҳаққында"
               }
             ],
             "check": 1
@@ -1936,7 +1936,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Shlagbaum menen jabdıqlanbaǵan eki jollı temir jol ótpesi haqqında"
+                "value": "Шлагбаум менен үскенеленбеген еки жоллы темир жол кесилиспеси ҳаққында"
               }
             ],
             "check": 0
@@ -1952,7 +1952,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Jasıl avtomobil jolayırıqtan ótedi:"
+            "value": "Жасыл автомобиль кесилиспеден өтеди:"
           },
           {
             "order": 2,
@@ -1968,7 +1968,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Birinshi"
+                "value": "Биринши"
               }
             ],
             "check": 0
@@ -1980,7 +1980,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ekinshi"
+                "value": "Екинши"
               }
             ],
             "check": 1
@@ -1996,7 +1996,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik qurallarına júriwge ruqsat etiledi?"
+            "value": "Қайсы транспорт қуралларына ҳәрекетлениўге рухсат етилген?"
           },
           {
             "order": 2,
@@ -2012,7 +2012,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Motociklge."
+                "value": "Мотоциклге."
               }
             ],
             "check": 0
@@ -2024,7 +2024,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Júk avtomobiline."
+                "value": "Жүк автомобилине."
               }
             ],
             "check": 0
@@ -2036,7 +2036,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Avtobusqa."
+                "value": "Автобусқа."
               }
             ],
             "check": 0
@@ -2048,7 +2048,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jeńil avtomobilge."
+                "value": "Жеңил автомобильге."
               }
             ],
             "check": 1
@@ -2060,7 +2060,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jeńil hám júk avtomobillerine."
+                "value": "Жеңил ҳәм жүк автомобильлерине."
               }
             ],
             "check": 0
@@ -2076,7 +2076,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik quralınıń haydawshısı jol beriwi kerek?"
+            "value": "Қайсы транспорт қуралының айдаўшысы жол бериўи керек?"
           },
           {
             "order": 2,
@@ -2092,7 +2092,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Motocikl haydawshısı."
+                "value": "Мотоцикл айдаўшысы."
               }
             ],
             "check": 0
@@ -2104,7 +2104,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Avtomobil haydawshısı."
+                "value": "Автомобиль айдаўшысы."
               }
             ],
             "check": 1
@@ -2120,7 +2120,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Úsh polasalı eki tárepli qozǵalıs jolında sizge oń tárepke burılıw kerek. Bul manevrdı qaysı polasadan ámelge asırasız?"
+            "value": "Үш жолақлы еки тәреплеме ҳәрекет жолында сиз оңға бурылыўыңыз керек. Бул маневрди қайсы жолақтан әмелге асырасыз?"
           },
           {
             "order": 2,
@@ -2136,7 +2136,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Oń polosadan"
+                "value": "Оң жолақтан"
               }
             ],
             "check": 1
@@ -2148,7 +2148,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Orta polosadan"
+                "value": "Ортаңғы жолақтан"
               }
             ],
             "check": 0
@@ -2160,7 +2160,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Oń yamasa orta polosadan"
+                "value": "Оң ямаса ортаңғы жолақтан"
               }
             ],
             "check": 0
@@ -2172,7 +2172,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Orta yamasa sol polosadan"
+                "value": "Ортаңғы ямаса шеп жолақтан"
               }
             ],
             "check": 0
@@ -2188,7 +2188,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı jerlerde kólik quralların júriw bóliginiń shetine múyeshke qoyıwǵa ruqsat etiledi?"
+            "value": "Қайсы орынларда транспорт қуралларын жолдың қатнаў бөлегиниң шетине мүйешлеп қойыўға рухсат етиледи?"
           }
         ],
         "answers": [
@@ -2199,7 +2199,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Hár bir bağdarda eki polasalı qozǵalıs jollarında."
+                "value": "Ҳәр бир жөнелисте еки ҳәрекетлениў жолағы болған жолларда."
               }
             ],
             "check": 0
@@ -2211,7 +2211,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Hár bir bağdarda úsh hám onnan kóp polasalı qozǵalıs jollarında."
+                "value": "Ҳәр бир жөнелисте үшеў ҳәм оннан да көп ҳәрекетлениў жолағы болған жолларда."
               }
             ],
             "check": 0
@@ -2223,7 +2223,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek bir tárepli qozǵalıs jollarında."
+                "value": "Тек ғана бир тәреплеме ҳәрекет жолларында."
               }
             ],
             "check": 0
@@ -2235,7 +2235,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Júriw bóleginiń jergilikli keńeyiw ornı bar jollardıń ayrım bóleklerinde, bul qozǵalıstıń basqa qatnasıwshılarına tosqınlıq jaratpaytuǵın bolsa."
+                "value": "Жолдың жергиликли кеңейген бөлеклеринде, егер бул басқа ҳәрекет қатнасыўшыларына кесент етпейтуғын болса."
               }
             ],
             "check": 1
@@ -2251,7 +2251,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Súyek sınıqlarında immobilizaciyalawshı shina sıpatında ne qollanıwǵa jaqsıraq?"
+            "value": "Сүйек сынғанда иммобилизациялаўшы шина сыпатында неден пайдаланған жақсы?"
           },
           {
             "order": 2,
@@ -2267,7 +2267,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Bint."
+                "value": "Бинт."
               }
             ],
             "check": 0
@@ -2279,7 +2279,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Gezleme."
+                "value": "Мата."
               }
             ],
             "check": 0
@@ -2291,7 +2291,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Taxta bólegi."
+                "value": "Тахтай бөлеги."
               }
             ],
             "check": 1
@@ -2307,7 +2307,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Súniy jaqtılandırılmaǵan jollarında yamasa jeterli kórinislik bolmaǵan jagdaylarda qarańǵı waqıtta janbaytugın artqı gabarit shıraqlarda toqtaw yamasa remont etiw ornına júriwge ruqsat etiledi me?"
+            "value": "Қараңғы ўақытта жасалма жарытылмаған жолларда ямаса жетерли дәрежеде көринбейтуғын шараятта артқы габарит отлары жанбаған ҳалда тоқтап турыў ямаса оңлаў орнына барыўға рухсат етиле ме?"
           }
         ],
         "answers": [
@@ -2318,7 +2318,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ayrıqsha abaylılıq penen ruqsat etiledi"
+                "value": "Айрықша абайлылық пенен рухсат етиледи"
               }
             ],
             "check": 0
@@ -2330,7 +2330,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qadaǵan etiledi"
+                "value": "Қадаған етиледи"
               }
             ],
             "check": 1
@@ -2360,7 +2360,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Tómendegi jagdaylardıń qaysısında kólik quralınıń haydawshısı IIM xızmetkerine kólik quralın beriw kerek?"
+            "value": "Төменде келтирилген жағдайлардың қайсы биринде айдаўшы транспорт қуралын ИИБ хызметкерине бериўге мәжбүр?"
           },
           {
             "order": 2,
@@ -2376,7 +2376,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Hár qanday jagdayda"
+                "value": "Ҳәр қандай жағдайда"
               }
             ],
             "check": 0
@@ -2388,7 +2388,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Keshiktirilmeytuğın xızmet tapsırmaların orınlaw ushın"
+                "value": "Кейинге қалдырылмайтуғын хызмет ўазыйпаларын орынлаў ушын"
               }
             ],
             "check": 1
@@ -2400,7 +2400,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jumıs ornına barıw ushın"
+                "value": "Жумыс орнына барыў ушын"
               }
             ],
             "check": 0
@@ -2416,7 +2416,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik quralınıń haydawshısı birinshi gezekli qozğalıw huqıqına iye?"
+            "value": "Қайсы транспорт қуралының айдаўшысы биринши гезекте ҳәрекетлениў ҳуқықына ийе?"
           },
           {
             "order": 2,
@@ -2432,7 +2432,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Júk avtomobiliniń haydawshısı."
+                "value": "Жүк автомобилиниң айдаўшысы."
               }
             ],
             "check": 1
@@ -2444,7 +2444,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Avtobus haydawshısı."
+                "value": "Автобус айдаўшысы."
               }
             ],
             "check": 0
@@ -2460,7 +2460,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı belgi kólik qurallarınıń belgide kórsetilgennen kem aralıqta qozğalıwın qadağan etedi?"
+            "value": "Қайсы белги транспорт қуралларына белгиде көрсетилгеннен кем аралықта ҳәрекетлениўди қадаған етеди?"
           },
           {
             "order": 2,
@@ -2528,7 +2528,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Jeńil avtomobildiń tóbesinde ornatılğan júk qoyğıshta júktiń maksimal biyikligi qansha bolıwı múmkin (velosipedlerdi arnawlı qurılmalar menen tasıwdan basqa)?"
+            "value": "Жеңил автомобилдиң үстинги (крыша) бөлимине орнатылған багажниктеги жүктiң бәлентлиги қаншадан аспаўы керек (арнаўлы мосламаларда велосипед тасыўдан тысқары)?"
           }
         ],
         "answers": [
@@ -2539,7 +2539,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "0,5 metr"
+                "value": "0,5 метр"
               }
             ],
             "check": 0
@@ -2551,7 +2551,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "1,0 metr"
+                "value": "1,0 метр"
               }
             ],
             "check": 1
@@ -2563,7 +2563,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "1,2 metr"
+                "value": "1,2 метр"
               }
             ],
             "check": 0
@@ -2575,7 +2575,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "1,5 metr"
+                "value": "1,5 метр"
               }
             ],
             "check": 0
@@ -2591,7 +2591,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Kórsetilgen jagdayda qaysı polosa arqalı ońğa burılıw kerek?"
+            "value": "Көрсетилген жағдайда оңға қайсы жолақтан бурылыў керек?"
           },
           {
             "order": 2,
@@ -2607,7 +2607,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek ekinshi polosa arqalı."
+                "value": "Тек екинши жолақтан."
               }
             ],
             "check": 0
@@ -2619,7 +2619,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek «A» marker menen belgilengen shep oń polosa arqalı."
+                "value": "Тек «А» сызығы менен белгиленген шетки оң жолақтан."
               }
             ],
             "check": 1
@@ -2635,7 +2635,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Tartiplewshiniń bul signalı bildiredi:"
+            "value": "Тәртипке салыўшының бул сигналы билдиреди:"
           },
           {
             "order": 2,
@@ -2651,7 +2651,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kók, jasıl avtomobillerge júriwge ruqsat etiledi. Qızıl, sarı, aq avtomobillerge qadağan etiledi."
+                "value": "Көк, жасыл автомобильлерге ҳәрекетлениўге рухсат етилген. Қызыл, сары, ақ түслилерге қадаған етилген."
               }
             ],
             "check": 0
@@ -2663,7 +2663,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kók, qızıl, jasıl avtomobillerge júriwge ruqsat etiledi. Sarı, aq avtomobillerge qadağan etiledi."
+                "value": "Көк, қызыл, жасыл автомобильлерге ҳәрекетлениўге рухсат етилген. Сары, ақ түслилерге қадаған етилген."
               }
             ],
             "check": 1
@@ -2679,7 +2679,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Jeńil avtomobillerge jaşaw punktlarınan tısqarı jol bóleklerinde qanday maksimal tezlikke ruqsat etiledi?"
+            "value": "Елди мекенлерден тысқары жолларда жеңил автомобильлерге қандай максимал тезликте ҳәрекетлениўге рухсат етиледи?"
           }
         ],
         "answers": [
@@ -2690,7 +2690,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "110 km/saat."
+                "value": "110 км/ч."
               }
             ],
             "check": 0
@@ -2702,7 +2702,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "100 km/saat."
+                "value": "100 км/ч."
               }
             ],
             "check": 1
@@ -2714,7 +2714,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "90 km/saat."
+                "value": "90 км/ч."
               }
             ],
             "check": 0
@@ -2726,7 +2726,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "80 km/saat."
+                "value": "80 км/ч."
               }
             ],
             "check": 0
@@ -2738,7 +2738,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "70 km/saat."
+                "value": "70 км/ч."
               }
             ],
             "check": 0
@@ -2754,7 +2754,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Jolayırıqta dóńgelek qozğalısı shólkemlestirgen. Siz jolayırıqqa jaqınlasıp atırğan júriw bólegi eki qozğalıs polasasına iye. Jolayırıqqa kirgende burılıw ushın qaysı polasanı iyelewińiz kerek?"
+            "value": "Кесилиспеде шеңбер бойлап ҳәрекетлениў шөлкемлестирилген. Сиз кесилиспеге жақынласып киятырған жолдың қатнаў бөлеги еки ҳәрекетлениў жолағына ийе. Кесилиспеге киргенде бурылыў ушын қайсы жолақты ийелеўиңиз шәрт?"
           }
         ],
         "answers": [
@@ -2765,7 +2765,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Oń polasanı"
+                "value": "Оң жолақты"
               }
             ],
             "check": 0
@@ -2777,7 +2777,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Sol polasanı"
+                "value": "Шеп жолақты"
               }
             ],
             "check": 0
@@ -2789,7 +2789,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Oń yamasa sol polasanı"
+                "value": "Оң ямаса шеп жолақты"
               }
             ],
             "check": 1
@@ -2805,7 +2805,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Siz órleme joldıń svetofor ruxsat signalın kútip toqtadıńız. Bul jagdayda avtomobildi orında uslaw ushın eń jaqsı usıl:"
+            "value": "Сиз бағдаршамның рухсат етиўши сигналын күтип, көтерилиўде тоқтадыңыз. Бул жағдайда автомобильди орнында услап турыўдың ең жақсы усылы:"
           }
         ],
         "answers": [
@@ -2816,7 +2816,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Toqtaw tormozı menen"
+                "value": "Тоқтаў тормозы менен"
               }
             ],
             "check": 1
@@ -2828,7 +2828,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Birinshi beriliste iliniw dúwmesin sıyqlatıw esabınan"
+                "value": "Биринши өткериў механизми (передача) қосылған ҳалда иласыўды (сцепление) айландырыў есабына"
               }
             ],
             "check": 0
@@ -2840,7 +2840,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ósherilgen dvigatelde, tómenletilgen beriliste"
+                "value": "Төменги өткериў механизми (передача) қосылған ҳалда өширилген двигатель менен"
               }
             ],
             "check": 0
@@ -2852,7 +2852,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Jumıs tormozı menen"
+                "value": "Жумысшы тормоз бенен"
               }
             ],
             "check": 0
@@ -2868,7 +2868,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı jagdaylarda velosipedshilerge júriw bóleginiń oń shetinen shığıwına ruqsat etiledi?"
+            "value": "Қайсы жағдайларда велосипедшилерге жолдың қатнаў бөлегиниң оң шетинен шығыўға рухсат етиледи?"
           }
         ],
         "answers": [
@@ -2879,7 +2879,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Júk tasığanda."
+                "value": "Жүк тасығанда."
               }
             ],
             "check": 0
@@ -2891,7 +2891,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ruqsat etilgen jagdaylarda solga burılıw yamasa qayta burılıw ushın."
+                "value": "Рухсат етилген жағдайларда шепке бурылыў ямаса артқа қайтылыў ушын."
               }
             ],
             "check": 1
@@ -2903,7 +2903,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Hár eki aytılgan jagdayda."
+                "value": "Келтирилген еки жағдайда да."
               }
             ],
             "check": 0
@@ -2919,7 +2919,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Piyadalarğa joldı piyada ótiwinen tısqarı jerde kesip ótiwge ruqsat etiledi me?"
+            "value": "Пиядаларға пиядалар өтиў жолынан тысқарыда жолды кесип өтиўге рухсат етиле ме?"
           },
           {
             "order": 2,
@@ -2935,7 +2935,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ruqsat etiledi."
+                "value": "Рухсат етиледи."
               }
             ],
             "check": 0
@@ -2947,7 +2947,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kóriniw zonasında ótpeniń yamasa jolayırıqtıń bolmağan jagdayında bóliwshi polosa hám tosıqlar bolmağan, eki tárepke de jaqsı kóriniwi bar bólimlerde júriw bóleginiń shetine tik múyeshte ótiwge ruqsat etiledi."
+                "value": "Көриниў аймағында өтиў жолы ямаса кесилиспе болмағанда, бөлиўши жолағы ҳәм тосықлары жоқ жерлерде, жол еки тәрепке де жақсы көринип турған жағдайда, жолдың қатнаў бөлегиниң шетине туўры мүйеш астында кесип өтиўге рухсат етиледи."
               }
             ],
             "check": 1
@@ -2959,7 +2959,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qadağan etiledi."
+                "value": "Қадаған етиледи."
               }
             ],
             "check": 0
@@ -2975,7 +2975,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul jerde háwlige burılıwğa ruqsat etiledi me?"
+            "value": "Бул жерде ҳәўлиге бурылыўға рухсат етиле ме?"
           },
           {
             "order": 2,
@@ -2991,7 +2991,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ruqsat etiledi."
+                "value": "Рухсат етиледи."
               }
             ],
             "check": 1
@@ -3003,7 +3003,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qadağan etiledi."
+                "value": "Қадаған етиледи."
               }
             ],
             "check": 0
@@ -3019,7 +3019,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul belgiler jaşaw orınlarında qáwipli bólimniń baslanıwına shekem qansha aralıqta ornatıladı?"
+            "value": "Бул белгилер елди мекенлерде қәўипли аймақ басланғанға шекем қанша аралықта орнатылады?"
           },
           {
             "order": 2,
@@ -3035,7 +3035,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "15-25 metr."
+                "value": "15-25 метр."
               }
             ],
             "check": 0
@@ -3047,7 +3047,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "25-50 metr."
+                "value": "25-50 метр."
               }
             ],
             "check": 0
@@ -3059,7 +3059,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "50-100 metr."
+                "value": "50-100 метр."
               }
             ],
             "check": 1
@@ -3071,7 +3071,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "100-130 metr."
+                "value": "100-130 метр."
               }
             ],
             "check": 0
@@ -3083,7 +3083,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "150-300 metr."
+                "value": "150-300 метр."
               }
             ],
             "check": 0
@@ -3099,7 +3099,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Avtomagistralda shatakka alıwğa ruqsat etiledi me?"
+            "value": "Автомагистральда тиркеп сүйреўге (буксировка) рухсат етилген бе?"
           }
         ],
         "answers": [
@@ -3110,7 +3110,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qadağan etiledi"
+                "value": "Қадаған етилген"
               }
             ],
             "check": 0
@@ -3122,7 +3122,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Ayrıqsha juklew yamasa qattı tisiliste ğana ruqsat etiledi"
+                "value": "Тек ғана қысман жүклеў жолы менен ямаса қатты тиркеўде рухсат етилген"
               }
             ],
             "check": 0
@@ -3134,7 +3134,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Iyiliwshi tisiliste ruqsat etiledi"
+                "value": "Ийилгиш тиркеўде рухсат етилген"
               }
             ],
             "check": 0
@@ -3146,7 +3146,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Hár qanday usılda ruqsat etiledi"
+                "value": "Ҳәр қандай усылда рухсат етилген"
               }
             ],
             "check": 1
@@ -3162,7 +3162,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul jagdayda belgilengen marshrut boyınsha júrip atırğan avtobus haydawshısı jol beriwi kerek pe?"
+            "value": "Белгиленген маршрут бойынша ҳәрекетленип киятырған автобус айдаўшысы бул жағдайда жол бериўи керек пе?"
           },
           {
             "order": 2,
@@ -3178,7 +3178,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kerek"
+                "value": "Керек"
               }
             ],
             "check": 1
@@ -3190,7 +3190,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kerek emes"
+                "value": "Керек емес"
               }
             ],
             "check": 0
@@ -3202,7 +3202,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kerek emes, sebebi ol tuwrı júrip atır"
+                "value": "Керек емес, себеби ол туўрыға ҳәрекетленбекте"
               }
             ],
             "check": 0
@@ -3218,7 +3218,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Qaysı kólik qurallarına júriwge ruqsat etiledi?"
+            "value": "Қайсы транспорт қуралларына ҳәрекетлениўге рухсат етиледи?"
           },
           {
             "order": 2,
@@ -3234,7 +3234,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Tek qızıl avtomobilge"
+                "value": "Тек ғана қызыл автомобильге"
               }
             ],
             "check": 0
@@ -3246,7 +3246,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Barlıq kólik qurallarına"
+                "value": "Барлық транспорт қуралларына"
               }
             ],
             "check": 0
@@ -3258,7 +3258,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Qızıl, kók hám jasıl avtomobillerge"
+                "value": "Қызыл, көк ҳәм жасыл автомобильлерге"
               }
             ],
             "check": 1
@@ -3274,7 +3274,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul jol belgisi menen belgilengen jol bólimlerinde tirkemesi bar jeńil avtomobillerge qanday maksimal tezlikke ruqsat etiledi?"
+            "value": "Усындай жол белгиси менен белгиленген жол бөлеклеринде тиркемели жеңил автомобильлерге қандай максимал тезликте ҳәрекетлениўге рухсат етиледи?"
           },
           {
             "order": 2,
@@ -3290,7 +3290,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "60 km/saat."
+                "value": "60 км/ч."
               }
             ],
             "check": 0
@@ -3302,7 +3302,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "70 km/saat."
+                "value": "70 км/ч."
               }
             ],
             "check": 0
@@ -3314,7 +3314,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "80 km/saat."
+                "value": "80 км/ч."
               }
             ],
             "check": 1
@@ -3326,7 +3326,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "100 km/saat."
+                "value": "100 км/ч."
               }
             ],
             "check": 0
@@ -3338,7 +3338,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "110 km/saat."
+                "value": "110 км/ч."
               }
             ],
             "check": 0
@@ -3354,7 +3354,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Júk avtomobilinde adamlardı tasıwğa arnalğan orındıqlar kuzov túbinen qansha biyiklikte ornatılıwı kerek?"
+            "value": "Адамларды тасыўға мөлшерленген орындықлар жүк автомобили кузовының түбинен қандай бәлентликте орнатылыўы керек?"
           }
         ],
         "answers": [
@@ -3365,7 +3365,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "0,3-0,5 metr"
+                "value": "0,3-0,5 метр"
               }
             ],
             "check": 1
@@ -3377,7 +3377,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "0,6-0,7 metr"
+                "value": "0,6-0,7 метр"
               }
             ],
             "check": 0
@@ -3389,7 +3389,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "0,8-0,9 metr"
+                "value": "0,8-0,9 метр"
               }
             ],
             "check": 0
@@ -3405,7 +3405,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "Bul jol belgisi ańlatadı:"
+            "value": "Бул жол белгиси билдиреди:"
           },
           {
             "order": 2,
@@ -3421,7 +3421,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Júk kóteriwshiligi belgide kórsetilgennen joqarı bolğan júk avtomobilleriniń hám kólik quralları quramlarınıń (tirkemesi bar júk avtomobilleriniń) júriwi qadağan etiledi"
+                "value": "Белгиде көрсетилгеннен артық жүк көтериўши жүк автомобильлери ҳәм транспорт қуралларының қурамына (тиркемели жүк автомобильлери) ҳәрекетлениў қадаған етиледи"
               }
             ],
             "check": 0
@@ -3433,7 +3433,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "Kólik quralları quramların qosa alğanda, umumiy haqıyqıy massası (jolawshılar hám júk massasın qosa esaplaganda) belgide kórsetilgennen joqarı bolğan kólik qurallarınıń júriwi qadağan etiledi"
+                "value": "Транспорт қуралларының, соның ишинде транспорт қураллары қурамының улыўма факт жүзлик салмағы (жолаўшылар ҳәм жүктiң салмағын қосып есаплағанда) белгиде көрсетилгеннен артық болса, олардың ҳәрекетлениўи қадаған етиледи"
               }
             ],
             "check": 1
@@ -3449,7 +3449,7 @@
           {
             "order": 1,
             "type": 1,
-            "value": "M2, М3 kategoriyasındağı avtokólik qurallarınıń shinalarında protektor nağısınıń qalğan biyikligi keminde qansha bolıwı kerek?"
+            "value": "М2, М3 категориясындағы автотранспорт қуралларының шиналары протекторларының қалдық бәлентлиги кеминде қанша болыўы керек?"
           }
         ],
         "answers": [
@@ -3460,7 +3460,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "0,8 mm"
+                "value": "0,8 мм"
               }
             ],
             "check": 0
@@ -3472,7 +3472,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "1,2 mm"
+                "value": "1,2 мм"
               }
             ],
             "check": 0
@@ -3484,7 +3484,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "1,6 mm"
+                "value": "1,6 мм"
               }
             ],
             "check": 0
@@ -3496,7 +3496,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "2 mm"
+                "value": "2 мм"
               }
             ],
             "check": 1
@@ -3508,7 +3508,7 @@
               {
                 "order": 1,
                 "type": 1,
-                "value": "2,5 mm"
+                "value": "2,5 мм"
               }
             ],
             "check": 0

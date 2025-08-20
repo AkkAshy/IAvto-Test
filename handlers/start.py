@@ -2,27 +2,79 @@ from aiogram import Router, F
 from aiogram.filters import CommandStart
 from aiogram.types import Message, ContentType
 from keyboards.reply import get_phone_keyboard, main_menu, language_menu
-from database.db import get_user, add_user
+from database.db import get_user, add_user, set_user_language, get_user_language
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from config.config import LANG_FILES
-from database.db import set_user_language, get_user_language
 import logging
 from services.quiz_service import t
 
 logger = logging.getLogger(__name__)
-
-
 router = Router()
+
+# Кэш для переводов кнопок (создается один раз)
+LANGUAGE_BUTTON_CACHE = None
+TEST_BUTTON_CACHE = None
+STOP_BUTTON_CACHE = None
+
+def get_language_buttons_cache():
+    """Возвращает все переводы кнопки 'Установить язык' на всех языках"""
+    global LANGUAGE_BUTTON_CACHE
+    if LANGUAGE_BUTTON_CACHE is None:
+        LANGUAGE_BUTTON_CACHE = []
+        for lang_code in LANG_FILES.keys():
+            try:
+                translation = t(lang_code, "menu.language")
+                if translation and translation != "menu.language":
+                    LANGUAGE_BUTTON_CACHE.append(translation)
+            except:
+                continue
+        logger.info(f"Language buttons cache: {LANGUAGE_BUTTON_CACHE}")
+    return LANGUAGE_BUTTON_CACHE
+
+def get_test_buttons_cache():
+    """Возвращает все переводы кнопки 'Начать тест' на всех языках"""
+    global TEST_BUTTON_CACHE
+    if TEST_BUTTON_CACHE is None:
+        TEST_BUTTON_CACHE = []
+        for lang_code in LANG_FILES.keys():
+            try:
+                translation = t(lang_code, "menu.test")
+                if translation and translation != "menu.test":
+                    TEST_BUTTON_CACHE.append(translation)
+            except:
+                continue
+        logger.info(f"Test buttons cache: {TEST_BUTTON_CACHE}")
+    return TEST_BUTTON_CACHE
+
+def get_stop_buttons_cache():
+    """Возвращает все переводы кнопки 'Стоп' на всех языках"""
+    global STOP_BUTTON_CACHE
+    if STOP_BUTTON_CACHE is None:
+        STOP_BUTTON_CACHE = []
+        for lang_code in LANG_FILES.keys():
+            try:
+                translation = t(lang_code, "menu.stop")
+                if translation and translation != "menu.stop":
+                    STOP_BUTTON_CACHE.append(translation)
+            except:
+                continue
+        logger.info(f"Stop buttons cache: {STOP_BUTTON_CACHE}")
+    return STOP_BUTTON_CACHE
 
 @router.message(CommandStart())
 async def start(message: Message):
     # Получаем язык пользователя (например, из БД)
     lang = await get_user_language(message.from_user.id)
+    if not lang:
+        lang = "kk"  # язык по умолчанию
 
     user = await get_user(message.from_user.id)
 
     if user:
-        await message.answer(t(lang, "start_message.registered").format(phone=user.phone_number))
+        await message.answer(
+            t(lang, "start_message.registered").format(phone=user.phone_number),
+            reply_markup=main_menu(lang)
+        )
     else:
         await message.answer(
             t(lang, "start_message.not_registered"),
@@ -35,23 +87,27 @@ async def handle_contact(message: Message):
     phone_number = contact.phone_number
     telegram_id = message.from_user.id
     
+    # Получаем язык пользователя
+    lang = await get_user_language(telegram_id)
+    if not lang:
+        lang = "kk"  # язык по умолчанию
+    
     # Сохраняем пользователя в БД
     await add_user(telegram_id, phone_number)
     
-    # Отправляем главное меню
+    # Отправляем главное меню с локализацией
     await message.answer(
-        f"Спасибо, бро! Твой номер: {phone_number} сохранён ✅\n"
-        "Теперь можешь начать викторину! 🚀",
-        reply_markup=main_menu()
+        t(lang, "contact.saved").format(phone=phone_number),
+        reply_markup=main_menu(lang)
     )
 
-
-@router.message(F.text == "🌐 Установить язык")
+# Динамический обработчик кнопки "Установить язык"
+@router.message(F.text.in_(get_language_buttons_cache()))
 async def select_language(message: Message):
-    lang = await get_user_language(message.from_user.id) or "ru"
+    lang = await get_user_language(message.from_user.id) or "kk"
     await message.answer(t(lang, "language.select"), reply_markup=language_menu())
 
-
+# Обработчик выбора конкретного языка
 @router.message(F.text.in_([f"🌐 {lang.upper()}" for lang in LANG_FILES]))
 async def select_language_to_test(message: Message):
     text = message.text.strip()
@@ -66,12 +122,15 @@ async def select_language_to_test(message: Message):
     await set_user_language(message.from_user.id, lang_code)
 
     await message.answer(
-        f"Язык установлен на {lang_code.upper()} ✅",
-        reply_markup=main_menu()
+        t(lang_code, "language.set").format(lang=lang_code.upper()),
+        reply_markup=main_menu(lang_code)
     )
 
-
-
-@router.message(F.text == "🛑 Стоп")
+# Динамический обработчик кнопки "Стоп"
+@router.message(F.text.in_(get_stop_buttons_cache()))
 async def stop(message: Message):
-    await message.answer("До свидания, бро! 😎",reply_markup=main_menu())
+    lang = await get_user_language(message.from_user.id) or "kk"
+    await message.answer(
+        t(lang, "commands.goodbye"),
+        reply_markup=main_menu(lang)
+    )

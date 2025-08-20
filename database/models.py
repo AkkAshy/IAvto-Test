@@ -12,7 +12,7 @@ class User(Base):
     __tablename__ = "users"
 
     telegram_id = Column(Integer, primary_key=True)
-    language = Column(String, nullable=False, default="ru")
+    language = Column(String, nullable=False, default="kk")
     phone_number = Column(String, nullable=False)
     created_at = Column(DateTime, default=datetime.utcnow)
 

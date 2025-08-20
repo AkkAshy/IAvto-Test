@@ -5,16 +5,22 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-def get_phone_keyboard(lang="ru") -> ReplyKeyboardMarkup:
+def get_phone_keyboard(lang="kk") -> ReplyKeyboardMarkup:
     keyboard = [[KeyboardButton(text=t(lang, "contact.button"), request_contact=True)]]
     return ReplyKeyboardMarkup(keyboard=keyboard, one_time_keyboard=True, resize_keyboard=True)
 
-def main_menu(lang="ru") -> ReplyKeyboardMarkup:
+def main_menu(lang="kk") -> ReplyKeyboardMarkup:
     return ReplyKeyboardMarkup(
         keyboard=[
             [KeyboardButton(text=t(lang, "menu.test"))],
             [KeyboardButton(text=t(lang, "menu.language"))]
         ],
+        resize_keyboard=True
+    )
+
+def get_stop_button(lang="kk") -> ReplyKeyboardMarkup:
+    return ReplyKeyboardMarkup(
+        keyboard=[[KeyboardButton(text=t(lang, "menu.stop"))]],
         resize_keyboard=True
     )
 
